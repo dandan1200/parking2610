@@ -1,0 +1,463 @@
+Day,type,Lot Name,Lot Number,Total Spaces,0700,1100,1400,1600
+monday,Commuter,West Stadium Lot,101,221,80% Full,88% Full,89% Full,79% Full
+monday,Commuter,Bernie Moore Lot,104,191,25% Full,28% Full,22% Full,25% Full
+monday,Commuter,Natatorium Lot,105,315,1% Full,48% Full,46% Full,40% Full
+monday,Commuter,Touchdown Village West Lot,314,1364,58% Full,95% Full,99% Full,77% Full
+monday,Commuter,Touchdown Village East Lot,315,1221,99% Full,100% Full,100% Full,98% Full
+monday,Commuter,West Parker Blvd. Lot,316,206,5% Full,15% Full,13% Full,4% Full
+monday,Commuter,South Stadium East Lot,401,328,6% Full,98% Full,98% Full,11% Full
+monday,Commuter,South Stadium West Lot,401,529,3% Full,98% Full,99% Full,7% Full
+monday,Commuter,South Quad Dr. West Lot,403,441,1% Full,28% Full,22% Full,7% Full
+monday,Commuter,Skip Bertman Dr. East Lot,404,641,1% Full,28% Full,22% Full,7% Full
+monday,Commuter,East Parker Blvd. Lot,604,504,100% Full,100% Full,99% Full,99% Full
+monday,Commuter,ECE West Lot,402,285,15% Full,87% Full,86% Full,36% Full
+monday,Commuter,Parker Coliseum Lot,600,494,32% Full,38% Full,95% Full,96% Full
+monday,Residential,Canal Hall North Lot,111,85,96% Full,99% Full,76% Full,69% Full
+monday,Residential,Nicholson Gateway North Lot,112,423,98% Full,93% Full,90% Full,88% Full
+monday,Residential,Beach Volleyball Lot,206,121,97% Full,100% Full,100% Full,96% Full
+monday,Residential,Spruce Hall Lot,210,125,96% Full,96% Full,96% Full,95% Full
+monday,Residential,Alaska Street Lot (WCA West),211,427,56% Full,56% Full,57% Full,55% Full
+monday,Residential,Kirby Smith Hall Lot,211,189,58% Full,59% Full,59% Full,62% Full
+monday,Residential,North Kirby Smith Hall Lot (WCA North),211,219,3% Full,17% Full,15% Full,4% Full
+monday,Residential,Aster Street West Lot,212,176,14% Full,15% Full,13% Full,11% Full
+monday,Residential,Aster Street East Lot,213,200,63% Full,66% Full,68% Full,62% Full
+monday,Residential,Alaska Street East Lot (Cypress Dr. North),219,266,92% Full,92% Full,100% Full,92% Full
+monday,Residential,Broussard Circle Lot,220,19,96% Full,100% Full,98% Full,100% Full
+monday,Residential,Pentagon Lot,220,65,97% Full,99% Full,97% Full,90% Full
+monday,Residential,Broussard Lot,221,73,97% Full,99% Full,97% Full,90% Full
+monday,Residential,Acadian Lot,506,141,92% Full,92% Full,95% Full,96% Full
+monday,Residential,Blake Hall Lot,507,93,98% Full,98% Full,98% Full,97% Full
+monday,Residential,Campus Lake Gravel Lot,508,134,90% Full,97% Full,97% Full,93% Full
+monday,Residential,Herget Hall Lot,508,230,98% Full,99% Full,99% Full,98% Full
+monday,Residential,Miller Hall Lot,508,177,99% Full,99% Full,100% Full,100% Full
+monday,Residential,Hill Farm Student Lot,515,298,91% Full,94% Full,96% Full,87% Full
+monday,Residential,Student Rec West Lot,517,100,84% Full,80% Full,91% Full,91% Full
+monday,Residential,Parker Coliseum Lot,600,494,32% Full,38% Full,95% Full,96% Full
+monday,Residential,South Stadium Dr. East Lot,601,125,0% Full,97% Full,70% Full,85% Full
+monday,Residential,Nicholson Gateway Garage (Level 1),701,134,1% Full,6% Full,6% Full,4% Full
+monday,Residential,Nicholson Gateway Garage (Level 2),701,146,54% Full,55% Full,69% Full,60% Full
+monday,Residential,Nicholson Gateway Garage (Level 3),701,170,19% Full,21% Full,22% Full,25% Full
+monday,Residential,Nicholson Gateway Garage (Level 4),701,171,6% Full,10% Full,5% Full,5% Full
+monday,Residential,Nicholson Gateway Garage (Level 5),701,178,6% Full,9% Full,5% Full,5% Full
+monday,Residential,East Campus Apartments (East Lot),504 A,191,95% Full,97% Full,96% Full,97% Full
+monday,Residential,East Campus Apartments (West Lot),504 B,218,100% Full,100% Full,99% Full,100% Full
+monday,Residential,Corporate Canal South Lot,518 B,81,85% Full,74% Full,89% Full,91% Full
+monday,Residential,Campus Lake - South Campus Lot (McVoy Hall),Street,18,100% Full,94% Full,94% Full,100% Full
+monday,Residential,South Campus Street (Bridge) Lot,Street,105,91% Full,96% Full,90% Full,94% Full
+monday,Residential,South Stadium / East Parker / Highland Rd. (Street) Lot,Street,172,23% Full,61% Full,56% Full,54% Full
+monday,Greek,Fraternity Circle Lot,501,94,79% Full,90% Full,97% Full,92% Full
+monday,Greek,Greek Row Central Lot,521,203,48% Full,38% Full,44% Full,36% Full
+monday,Greek,Greek Row South Lot,523,84,77% Full,81% Full,84% Full,74% Full
+monday,Greek,Greek Row North Lot,524,141,3% Full,29% Full,42% Full,19% Full
+monday,Greek,Fraternity Ln. Lot (Street),500A,25,8% Full,67% Full,75% Full,67% Full
+monday,Greek,Fraternity Ln. Lot,500A,53,49% Full,72% Full,96% Full,92% Full
+monday,Greek,Fraternity Ln. East Lot,500B,41,71% Full,76% Ful,88% Full,88% Full
+monday,Greek,Fraternity Ln. North Lot,500C,83,63% Full,96% Full,98% Full,96% Full
+monday,Greek,Greek Row West Lot,520,84,96% Full,100% Full,99% Full,95% Full
+monday,Greek,West Lakeshore North Lot,513,116,97% Full,99% Full,96% Full,93% Full
+monday,B Permit,West State St. Lot,218,55,62% Full,87% Full,67% Full,84% Full
+monday,B Permit,Donahue Street Lot,220,18,43% Full,79% Full,86% Full,79% Full
+monday,B Permit,Old Band Hall (Gravel) Lot,222,26,0% Full,4% Full,61% Full,4% Full
+monday,B Permit,312 A (Gravel),312,30,60% Full,90% Full,100% Full,57% Full
+monday,B Permit,Public Safety Lot,400,42,57% Full,68% Full,75% Full,61% Full
+monday,B Permit,Hansen's Lot,420,10,10% Full,20% Full,20% Full,10% Full
+monday,B Permit,Vet Med East Lot,421,170,44% Full,67% Full,65% Full,83% Full
+monday,B Permit,Vet Med West Lot,422,113,No Data,No Data,No Data,No Data
+monday,B Permit,Vet Ln. Lot,423,6,No Data,No Data,No Data,No Data
+monday,B Permit,LADDL Lot,424,57,No Data,No Data,No Data,No Data
+monday,B Permit,Warehouse Ln. Lot,425,41,13% Full,30% Full,20% Full,20% Full
+monday,B Permit,University Stores B Lot,430,42,20% Full,20% Full,20% Full,10% Full
+monday,B Permit,U-High North B Lot,510,88,87% Full,98% Full,99% Full,98% Full
+monday,B Permit,U-High North B Lot,510,88,87% Full,98% Full,99% Full,98% Full
+monday,B Permit,U-High South B Lot,511,24,0% Full,21% Full,54% Full,37% Full
+monday,B Permit,Early Learning Center B Lot,On Street,23,54% Full,91% Full,77% Full,86% Full
+monday,B Permit,Nelson Memorial B Lot,603,29,10% Full,52% Full,45% Full,52% Full
+monday,B Permit,Tiger Band Hall B Lot,214 B,6,100% Full,20% Full,100% Full,100% Full
+monday,B Permit,The 5 B Lot,221 A,24,95% Full,92% Full,95% Full,85% Full
+monday,B Permit,Cogen Lot,301 A,26,54% Full,100% Full,88% Full,73% Full
+monday,B Permit,Electrical Engineering B Lot,304 A,117,41% Full,95% Full,96% Full,73% Full
+monday,B Permit,Facility Services Lot (Fieldhouse Dr.),304 C,75,80% Full,97% Full,99% Full,93% Full
+monday,B Permit,Sturgis Hall B Lot (312A),312 B,70,5% Full,92% Full,92% Full,77% Full
+monday,B Permit,E.B. Doran Hall Lot,312 D,44,16% Full,100% Full,95% Full,74% Full
+monday,B Permit,ECE B Lot,402 B,60,2% Full,6% Full,5% Full,8% Full
+monday,B Permit,E.B Doran Hall (Gravel) Lot,On Street,19,16% Full,100% Full,95% Full,74% Full
+monday,B Permit,South Quad B (Gravel) Lot,403 A,55,1% Full,14% Full,7% Full,7% Full
+monday,B Permit,Engineering Ln. Lot,On Street,56,14% Full,28% Full,39% Full,23% Full
+monday,B Permit,Fieldhouse Dr. (Alaska St.) Lot,On Street,19,37% Full,100% Full,100% Full,100% Full
+monday,B Permit,Fieldhouse Dr. (S. Campus Dr.) Lot,On Street,45,64% Full,96% Full,100% Full,100% Full
+monday,B Permit,Forestry Ln. Lot,On Street,15,86% Full,86% Full,86% Full,86% Full
+monday,B Permit,Hospital Ln. Lot,On Street,16,0% Full,0% Full,100% Full,100% Full
+monday,B Permit,Infirmary Rd. Lot,On Street,38,27% Full,100% Full,87% Full,87% Full
+monday,B Permit,Tower Dr. B Lot,On Street,58,75% Full,80% Full,80% Full,85% Full
+monday,B Permit,Parade Grounds North Lot,On Street,40,57% Full,95% Full,90% Full,100% Full
+monday,B Permit,Parade Grounds South Lot,On Street,61,53% Full,100% Full,100% Full,100% Full
+monday,B Permit,North Stadium Dr. Lot,On Street,27,22% Full,85% Full,93% Full,93% Full
+monday,B Permit,Parker Coliseum B Lot,On Street,37,20% Full,92% Full,100% Full,92% Full
+tuesday,Commuter,West Stadium Lot,101,221,27% Full,16% Full,17% Full,30% Full
+tuesday,Commuter,Bernie Moore Lot,104,191,6% Full,14% Full,15% Full,3% Full
+tuesday,Commuter,Natatorium Lot,105,315,1% full,40% Full,40% Full,2% Full
+tuesday,Commuter,Touchdown Village West Lot,314,1364,16% Full,93% Full,93% Full,71% Full
+tuesday,Commuter,Touchdown Village East Lot,315,1221,12% Full,92% Full,92% Full,30% Full
+tuesday,Commuter,West Parker Blvd. Lot,316,206,12% Full,16% Full,10% Full,4% Full
+tuesday,Commuter,South Stadium East Lot,401,328,5% Full,96% Full,97% Full,6% Full
+tuesday,Commuter,South Stadium West Lot,401,529,4% Full,98% Full,98% Full,6% Full
+tuesday,Commuter,South Quad Dr. West Lot,403,441,5% Full,96% Full,97% Full,6% Full
+tuesday,Commuter,Skip Bertman Dr. East Lot,404,641,2% Full,28% Full,25% Full,20% Full
+tuesday,Commuter,East Parker Blvd. Lot,604,504,13% Full,47% Full,42% Full,16% Full
+tuesday,Commuter,ECE West Lot,402,285,15% Full,87% Full,86% Full,36% Full
+tuesday,Commuter,Parker Coliseum Lot,600,494,28% Full,100% Full,97% Full,72% Full
+tuesday,Residential,Canal Hall North Lot,111,85,98% Full,93% Full,89% Full,87% Full
+tuesday,Residential,Nicholson Gateway North Lot,112,423,99% Full,97% Full,93% Full,94% Full
+tuesday,Residential,Beach Volleyball Lot,206,121,98% Full,100% Full,100% Full,91% Full
+tuesday,Residential,Spruce Hall Lot,210,125,98% Full,98% Full,99% Full,98% Full
+tuesday,Residential,Alaska Street Lot (WCA West),211,427,84% Full,85% Full,87% Full,82% Full
+tuesday,Residential,Kirby Smith Hall Lot,211,189,99% Full,98% Full,100% Full,100% Full
+tuesday,Residential,North Kirby Smith Hall Lot (WCA North),211,219,33% Full,42% Full,36% Full,26% Full
+tuesday,Residential,Aster Street West Lot,212,176,2% Full,19% Full,23% Full,5% Full
+tuesday,Residential,Aster Street East Lot,213,200,11% Full,10% Full,9% Full,5% Full
+tuesday,Residential,Alaska Street East Lot (Cypress Dr. North),219,266,65% Full,67% Full,69% Full,63% Full
+tuesday,Residential,Broussard Circle Lot,220,19,95% Full,90% Full,84% Full,95% Full
+tuesday,Residential,Pentagon Lot,220,65,97% Full,100% Full,98% Full,91% Full
+tuesday,Residential,Acadian Lot,506,141,96% Full,100% Full,100% Full,99% Full
+tuesday,Residential,Blake Hall Lot,507,93,99% Full,98% Full,98% Full,98% Full
+tuesday,Residential,Campus Lake Gravel Lot,508,134,93% Full,99% Full,98% Full,98% Full
+tuesday,Residential,Herget Hall Lot,508,230,98% Full,99% Full,99% Full,99% Full
+tuesday,Residential,Miller Hall Lot,508,177,99% Full,99% Full,100% Full,100% Full
+tuesday,Residential,Hill Farm Student Lot,515,298,0% Full,0% Full,2% Full,5% Full
+tuesday,Residential,Student Rec West Lot,517,100,96% Full,94% Full,98% Full,96% Full
+tuesday,Residential,Parker Coliseum Lot,600,494,28% Full,100% Full,97% Full,72% Full
+tuesday,Residential,South Stadium Dr. East Lot,601,125,0% Full,94% Full,98% Full,0% Full
+tuesday,Residential,Nicholson Gateway Garage (Level 1),701,134,98% Full,99% Full,89% Full,92% Full
+tuesday,Residential,Nicholson Gateway Garage (Level 2),701,146,55% Full,56% Full,70% Full,61% Full
+tuesday,Residential,Nicholson Gateway Garage (Level 3),701,170,19% Full,21% Full,21% Full,24% Full
+tuesday,Residential,Nicholson Gateway Garage (Level 4),701,171,6% Full,9% Full,5% Full,6% Full
+tuesday,Residential,Nicholson Gateway Garage (Level 5),701,178,1% Full,4% Full,4% Full,2% Full
+tuesday,Residential,East Campus Apartments (East Lot),504 A,191,100% Full,99% Full,98% Full,100% Full
+tuesday,Residential,East Campus Apartments (West Lot),504 B,218,100% Full,99% Full,96% Full,100% Full
+tuesday,Residential,Corporate Canal South Lot,518 B,81,85% Full,74% Full,89% Full,91% Full
+tuesday,Residential,Campus Lake - South Campus Lot (McVoy Hall),Street,18,94% Full,100% Full,100% Full,100% Full
+tuesday,Residential,South Campus Street (Bridge) Lot,Street,105,93% Full,97% Full,92% Full,95% Full
+tuesday,Residential,South Stadium / East Parker / Highland Rd. (Street) Lot,Street,172,63% Full,67% Full,66% Full,62% Full
+tuesday,Greek,Fraternity Circle Lot,501,94,77% Full,87% Full,93% Full,83% Full
+tuesday,Greek,Greek Row Central Lot,521,203,50% Full,63% Full,67% Full,43% Full
+tuesday,Greek,Greek Row South Lot,523,84,86% Full,87% Full,82% Full,77% Full
+tuesday,Greek,Greek Row North Lot,524,141,9% Full,33% Full,42% Full,25% Full
+tuesday,Greek,Fraternity Ln. Lot (Street),500A,25,52% Full,68% Full,80% Full,44% Full
+tuesday,Greek,Fraternity Ln. Lot,500B,53,54% Full,91% Full,87% Full,85% Full
+tuesday,Greek,Fraternity Ln. East Lot (Gravel),500B,41,80% Full,78% Full,71% Full,66% Full
+tuesday,Greek,Fraternity Ln. North Lot,500C,83,63% Full,96% Full,98% Full,96% Full
+tuesday,Greek,Greek Row West Lot,520,84,96% Full,98% Full,99% Full,98% Full
+tuesday,Greek,West Lakeshore North Lot,513,116,85% Full,77% Full,74% Full,59% Full
+tuesday,B Permit,West State St. Lot,218,55,69% Full,85% Full,80% Full,65% Full
+tuesday,B Permit,Donahue St. Lot,220,18,16% Full,94% Full,94% Full,77% Full
+tuesday,B Permit,Old Band Hall (Gravel) Lot,222,26,65% Full,11% Full,19% Full,11% Full
+tuesday,B Permit,312A Gravel Lot,312,30,63% Full,100% Full,100% Full,80% Full
+tuesday,B Permit,Public Safety B Lot,400,42,30% Full,45% Full,57% Full,40% Full
+tuesday,B Permit,Hansen's Lot,420,10,40% Full,40% Full,57% Full,40% Full
+tuesday,B Permit,Vet Med East Lot,421,170,21% Full,77% Full,74% Full,67% Full
+tuesday,B Permit,Vet Med West Lot,422,113,No Data,No Data,No Data,No Data
+tuesday,B Permit,Vet Ln. Lot,423,6,No Data,No Data,No Data,No Data
+tuesday,B Permit,LADDL Lot,424,57,No Data,No Data,No Data,No Data
+tuesday,B Permit,Warehouse Ln. Lot,425,41,13% Full,30% Full,40% Full,30% Full
+tuesday,B Permit,University Stores B Lot,430,42,20% Full,20% Full,30% Full,30% Full
+tuesday,B Permit,U-High North B Lot,510,88,72% Full,72% Full,72% Full,72% Full
+tuesday,B Permit,U-High South B Lot,511,24,100% Full,54% Full,50% Full,45% Full
+tuesday,B Permit,Early Learning Center B Lot,On Street,23,54% Full,91% Full,77% Full,86% Full
+tuesday,B Permit,Nelson Memorial Lot,603,29,31% Full,52% Full,58% Full,44% Full
+tuesday,B Permit,Tiger Band Hall B Lot,214 B,6,16% Full,0% Full,16% Full,16% Full
+tuesday,B Permit,The 5 B Lot,221 A,24,95% Full,92% Full,92% Full,65% Full
+tuesday,B Permit,Cogen Hall Lot,301 A,26,30% Full,96% Full,92% Full,65% Full
+tuesday,B Permit,Electrical Engineering Lot,304 C,117,35% Full,94% Full,93% Full,70% Full
+tuesday,B Permit,Facility Services B Lot (Fieldhouse Dr.),312 B,75,84% Full,92% Full,89% Full,95% Full
+tuesday,B Permit,Sturgis Hall B Lot,312 D,70,15% Full,94% Full,98% Full,88% Full
+tuesday,B Permit,E.B. Doran Hall Lot,402 B,44,16% Full,100% Full,95% Full,74% Full
+tuesday,B Permit,ECE B Lot,On Street,60,3% Full,10% Full,8% Full,3% Full
+tuesday,B Permit,E.B.Doran Hall (Gravel) Lot,On Street,19,16% Full,100% Full,95% Full,74% Full
+tuesday,B Permit,South Quad B Lot,403 A,55,1% Full,14% Full,7% Full,7% Full
+tuesday,B Permit,Engineering Ln. B Lot,On Street,56,14% Full,28% Full,39% Full,23% Full
+tuesday,B Permit,Fieldhouse Dr. (Alaska St.) Lot,On Street,19,31% Full,100% Full,100% Full,100% Full
+tuesday,B Permit,Fieldhouse Dr. (S. Campus Dr.) Lot,On Street,45,97% Full,100% Full,95% Full,97% Full
+tuesday,B Permit,Forestry Ln. Lot,On Street,15,53% Full,66% Full,73% Full,66% Full
+tuesday,B Permit,Hospital Ln. Lot,On Street,16,10% Full,10% Full,80% Full,83% Full
+tuesday,B Permit,Infirmary Rd. Lot,On Street,38,5% Full,81% Full,89% Full,81% Full
+tuesday,B Permit,Tower Dr. B Lot,On Street,58,68% Full,74% Full,75% Full,85% Full
+tuesday,B Permit,Parade Grounds North Lot,On Street,40,50% Full,97% Full,97% Full,92% Full
+tuesday,B Permit,Parade Grounds South Lot,On Street,61,21% Full,100% Full,98% Full,95% Full
+tuesday,B Permit,North Stadium Dr. Lot,On Street,27,44% Full,66% Full,81% Full,100% Full
+tuesday,B Permit,Parker Coliseum B Lot,On Street,37,5% Full,100% Full,100% Full,97% Full
+wednesday,Commuter,West Stadium Lot,101,221,19% Full,82% Full,79% Full,74% Full
+wednesday,Commuter,Bernie Moore Lot,104,191,4% Full,89% Full,67% Full,21% Full
+wednesday,Commuter,Natatorium Lot,105,315,27% Full,32% Full,35% Full,42% Full
+wednesday,Commuter,Touchdown Village West Lot,314,1364,2% Full,96% Full,92% Full,65% Full
+wednesday,Commuter,Touchdown Village East Lot,315,1221,1% Full,47% Full,41% Full,21% Full
+wednesday,Commuter,West Parker Blvd. Lot,316,206,6% Full,16% Full,10% Full,3% Full
+wednesday,Commuter,South Stadium East Lot,401,328,4% Full,99% Full,99% Full,4% Full
+wednesday,Commuter,South Stadium West Lot,401,529,3% Full,99% Full,99% Full,4% Full
+wednesday,Commuter,South Quad Dr. West Lot,403,441,3% Full,97% Full,98% Full,96% Full
+wednesday,Commuter,Skip Bertman Dr. East Lot,404,641,3% Full,26% Full,24% Full,18% Full
+wednesday,Commuter,East Parker Blvd. Lot,604,504,16% Full,48% Full,42% Full,85% Full
+wednesday,Commuter,ECE West Lot,402,285,20% Full,17% Full,86% Full,41% Full
+wednesday,Commuter,Parker Coliseum Lot,600,494,36% Full,99% Full,91% Full,73% Full
+wednesday,Residential,Canal Hall North Lot,111,85,100% Full,88% Full,85% Full,75% Full
+wednesday,Residential,Nicholson Gateway North Lot,112,423,98% Full,93% Full,88% Full,86% Full
+wednesday,Residential,Beach Volleyball Lot,206,121,97% Full,98% Full,97% Full,97% Full
+wednesday,Residential,Spruce Hall Lot,210,125,98% Full,95% Full,97% Full,98% Full
+wednesday,Residential,Alaska Street Lot (WCA West),211,427,85% Full,84% Full,86% Full,85% Full
+wednesday,Residential,Kirby Smith Hall Lot,211,189,99% Full,96% Full,99% Full,99% Full
+wednesday,Residential,North Kirby Smith Hall Lot (WCA North),211,219,54% Full,65% Full,53% Full,52% Full
+wednesday,Residential,Aster Street West Lot,212,176,5% Full,16% Full,20% Full,3% Full
+wednesday,Residential,Aster Street East Lot,213,200,10% Full,10% Full,11% Full,8% Full
+wednesday,Residential,Alaska Street East Lot (Cypress Dr. North),219,266,65% Full,68% Full,68% Full,48% Full
+wednesday,Residential,Broussard Circle Lot,220,19,100% Full,100% Full,95% Full,95% Full
+wednesday,Residential,Pentagon Lot,220,65,100% Full,100% Full,98% Full,97% Full
+wednesday,Residential,Acadian Lot,506,141,96% Full,100% Full,98% Full,99% Full
+wednesday,Residential,Blake Hall Lot,507,93,99% Full,98% Full,98% Full,98% Full
+wednesday,Residential,Campus Lake Gravel Lot,508,134,92% Full,97% Full,98% Full,94% Full
+wednesday,Residential,Herget Hall Lot,508,230,98% Full,99% Full,98% Full,98% Full
+wednesday,Residential,Miller Hall Lot,508,177,99% Full,98% Full,98% Full,99% Full
+wednesday,Residential,Hill Farm Student Lot,515,298,0% Full,0% Full,98% Full,90% Full
+wednesday,Residential,Student Rec West Lot,517,100,88% Full,92% Full,90% Full,94% Full
+wednesday,Residential,Parker Coliseum Lot,600,494,36% Full,99% Full,91% Full,73% Full
+wednesday,Residential,South Stadium Dr. East Lot,601,125,0% Full,78% Full,90% Full,0% Full
+wednesday,Residential,Nicholson Gateway Garage (Level 1),701,134,93% Full,96% Full,88% Full,78% Full
+wednesday,Residential,Nicholson Gateway Garage (Level 2),701,146,87% Full,88% Full,71% Full,55% Full
+wednesday,Residential,Nicholson Gateway Garage (Level 3),701,170,32% Full,30% Full,25% Full,24% Full
+wednesday,Residential,Nicholson Gateway Garage (Level 4),701,171,8% Full,8% Full,8% Full,6% Full
+wednesday,Residential,Nicholson Gateway Garage (Level 5),701,178,0% Full,2% Full,1% Full,0% Full
+wednesday,Residential,East Campus Apartments (East Lot),504 A,191,100% Full,99% Full,100% Full,100% Full
+wednesday,Residential,East Campus Apartments (West Lot),504 B,218,100% Full,99% Full,100% Full,100% Full
+wednesday,Residential,Corporate Canal South Lot,518 B,81,86% Full,70% Full,84% Full,78% Full
+wednesday,Residential,Campus Lake - South Campus Lot (McVoy Hall),Street,18,83% Full,83% Full,89% Full,100% Full
+wednesday,Residential,South Campus Street (Bridge) Lot,Street,105,93% Full,91% Full,95% Full,97% Full
+wednesday,Residential,South Stadium / East Parker / Highland Rd. (Street) Lot,Street,172,61% Full,73% Full,62% Full,60% Full
+wednesday,Greek,Fraternity Circle Lot,501,94,77% Full,87% Full,93% Full,83% Full
+wednesday,Greek,Greek Row Central Lot,521,203,44% Full,62% Full,69% Full,48% Full
+wednesday,Greek,Greek Row South Lot,523,84,88% Full,95% Full,96% Full,57% Full
+wednesday,Greek,Greek Row North Lot,524,141,0% Full,19% Full,36% Full,3% Full
+wednesday,Greek,Fraternity Ln. Lot (Street),500A,25,52% Full,68% Full,80% Full,44% Full
+wednesday,Greek,Fraternity Ln. Lot,500B,53,54% Full,91% Full,87% Full,85% Full
+wednesday,Greek,Fraternity Ln. East Lot (Gravel),500B,41,80% Full,78% Full,71% Full,66% Full
+wednesday,Greek,Fraternity Ln. North Lot,500C,83,94% Full,96% Full,90% Full,83% Full
+wednesday,Greek,Greek Row West Lot,520,84,98% Full,99% Full,94% Full,57% Full
+wednesday,Greek,West Lakeshore North Lot,513,116,59% Full,81% Full,67% Full,64% Full
+wednesday,B Permit,West State St. Lot,218,55,78% Full,85% Full,76% Full,73% Full
+wednesday,B Permit,Donahue Street Lot,220,18,11% Full,100% Full,33% Full,78% Full
+wednesday,B Permit,Old Band Hall (Gravel) Lot,222,26,73% Full,15% Full,8% Full,15% Full
+wednesday,B Permit,312 A (Gravel),312,30,13% Full,27% Full,100% Full,73% Full
+wednesday,B Permit,Public Safety Lot,400,42,19% Full,19% Full,21% Full,21% Full
+wednesday,B Permit,Hansen's Lot,420,10,20% Full,20% Full,20% Full,10% Full
+wednesday,B Permit,Vet Med East Lot,421,170,21% Full,25% Full,75% Full,61% Full
+wednesday,B Permit,Vet Med West Lot,422,113,No Data,No Data,No Data,No Data
+wednesday,B Permit,Vet Ln. Lot,423,6,No Data,No Data,No Data,No Data
+wednesday,B Permit,LADDL Lot,424,57,No Data,No Data,No Data,No Data
+wednesday,B Permit,Warehouse Ln. Lot,425,41,13% Full,30% Full,50% Full,60% Full
+wednesday,B Permit,University Stores B Lot,430,42,20% Full,30% Full,30% Full,25% Full
+wednesday,B Permit,U-High North B Lot,510,88,93% Full,99% Full,99% Full,98% Full
+wednesday,B Permit,U-High South B Lot,511,24,79% Full,71% Full,75% Full,46% Full
+wednesday,B Permit,Early Learning Center B Lot,On Street,23,54% Full,91% Full,77% Full,86% Full
+wednesday,B Permit,Nelson Memorial B Lot,603,29,31% Full,52% Full,58% Full,44% Full
+wednesday,B Permit,Tiger Band Hall B Lot,214 B,6,17% Full,0% Full,100% Full,83% Full
+wednesday,B Permit,The 5 B Lot,221 A,24,95% Full,92% Full,95% Full,82% Full
+wednesday,B Permit,Cogen Lot,301 A,26,65% Full,88% Full,96% Full,62% Full
+wednesday,B Permit,Electrical Engineering B Lot,304 A,117,40% Full,94% Full,97% Full,76% Full
+wednesday,B Permit,Facility Services Lot (Fieldhouse Dr.),304 C,75,67% Full,85% Full,89% Full,84% Full
+wednesday,B Permit,Sturgis Hall B Lot (312A),312 B,70,14% Full,94% Full,97% Full,87% Full
+wednesday,B Permit,E.B. Doran Hall Lot,312 D,44,32% Full,100% Full,100% Full,100% Full
+wednesday,B Permit,ECE B Lot,402 B,60,32% Full,100% Full,100% Full,100% Full
+wednesday,B Permit,E.B Doran Hall (Gravel) Lot,On Street,19,20% Full,80% Full,90% Full,75% Full
+wednesday,B Permit,South Quad B (Gravel) Lot,403 A,55,2% Full,4% Full,5% Full,7% Full
+wednesday,B Permit,Engineering Ln. Lot,On Street,56,14% Full,28% Full,39% Full,23% Full
+wednesday,B Permit,Fieldhouse Dr. (Alaska St.) Lot,On Street,19,21% Full,100% Full,100% Full,100% Full
+wednesday,B Permit,Fieldhouse Dr. (S. Campus Dr.) Lot,On Street,45,98% Full,100% Full,98% Full,100% Full
+wednesday,B Permit,Forestry Ln. Lot,On Street,15,87% Full,93% Full,93% Full,100% Full
+wednesday,B Permit,Hospital Ln. Lot,On Street,16,0% Full,17% Full,83% Full,83% Full
+wednesday,B Permit,Infirmary Rd. Lot,On Street,38,3% Full,92% Full,97% Full,95% Full
+wednesday,B Permit,Tower Dr. B Lot,On Street,58,78% Full,80% Full,95% Full,85% Full
+wednesday,B Permit,Parade Grounds North Lot,On Street,40,50% Full,100% Full,98% Full,100% Full
+wednesday,B Permit,Parade Grounds South Lot,On Street,61,31% Full,100% Full,100% Full,90% Full
+wednesday,B Permit,North Stadium Dr. Lot,On Street,27,67% Full,74% Full,56% Full,41% Full
+wednesday,B Permit,Parker Coliseum B Lot,On Street,37,76% Full,100% Full,100% Full,87% Full
+thursday,Commuter,West Stadium Lot,101,221,19% Full,82% Full,79% Full,74% Full
+thursday,Commuter,Bernie Moore Lot,104,191,4% Full,89% Full,67% Full,21% Full
+thursday,Commuter,Natatorium Lot,105,315,27% Full,32% Full,35% Full,42% Full
+thursday,Commuter,Touchdown Village West Lot,314,1364,2% Full,96% Full,92% Full,65% Full
+thursday,Commuter,Touchdown Village East Lot,315,1221,1% Full,47% Full,41% Full,21% Full
+thursday,Commuter,West Parker Blvd. Lot,316,206,6% Full,16% Full,10% Full,3% Full
+thursday,Commuter,South Stadium East Lot,401,328,4% Full,99% Full,99% Full,4% Full
+thursday,Commuter,South Stadium West Lot,401,529,3% Full,99% Full,99% Full,4% Full
+thursday,Commuter,South Quad Dr. West Lot,403,441,3% Full,97% Full,98% Full,96% Full
+thursday,Commuter,Skip Bertman Dr. East Lot,404,641,3% Full,26% Full,24% Full,18% Full
+thursday,Commuter,East Parker Blvd. Lot,604,504,10% Full,41% Full,43% Full,1% Full
+thursday,Commuter,ECE West Lot,402,285,20% Full,17% Full,86% Full,41% Full
+thursday,Commuter,Parker Coliseum Lot,600,494,33% Full,90% Full,89% Full,65% Full
+thursday,Residential,Canal Hall North Lot,111,85,100% Full,96% Full,88% Full,82% Full
+thursday,Residential,Nicholson Gateway North Lot,112,423,97% Full,95% Full,93% Full,96% Full
+thursday,Residential,Beach Volleyball Lot,206,121,100% Full,97% Full,97% Full,98% Full
+thursday,Residential,Spruce Hall Lot,210,125,98% Full,95% Full,93% Full,96% Full
+thursday,Residential,Alaska Street Lot (WCA West),211,427,88% Full,89% Full,85% Full,87% Full
+thursday,Residential,Kirby Smith Hall Lot,211,189,99% Full,98% Full,98% Full,99% Full
+thursday,Residential,North Kirby Smith Hall Lot (WCA North),211,219,55% Full,52% Full,52% Full,53% Full
+thursday,Residential,Aster Street West Lot,212,176,2% Full,7% Full,8% Full,5% Full
+thursday,Residential,Aster Street East Lot,213,200,10% Full,13% Full,14% Full,7% Full
+thursday,Residential,Alaska Street East Lot (Cypress Dr. North),219,266,67% Full,65% Full,76% Full,69% Full
+thursday,Residential,Broussard Circle Lot,220,19,100% Full,100% Full,89% Full,95% Full
+thursday,Residential,Pentagon Lot,220,65,100% Full,100% Full,94% Full,95% Full
+thursday,Residential,Acadian Lot,506,141,99% Full,96% Full,99% Full,87% Full
+thursday,Residential,Blake Hall Lot,507,93,99% Full,98% Full,97% Full,91% Full
+thursday,Residential,Campus Lake Gravel Lot,508,134,96% Full,99% Full,99% Full,93% Full
+thursday,Residential,Herget Hall Lot,508,230,99% Full,98% Full,96% Full,97% Full
+thursday,Residential,Miller Hall Lot,508,177,99% Full,98% Full,95% Full,89% Full
+thursday,Residential,Hill Farm Student Lot,515,298,1% Full,2% Full,2% Full,3% Full
+thursday,Residential,Student Rec West Lot,517,100,86% Full,96% Full,88% Full,94% Full
+thursday,Residential,Parker Coliseum Lot,600,494,33% Full,90% Full,89% Full,65% Full
+thursday,Residential,South Stadium Dr. East Lot,601,125,0% Full,68% Full,74% Full,0% Full
+thursday,Residential,Nicholson Gateway Garage (Level 1),701,134,97% Full,93% Full,85% Full,82% Full
+thursday,Residential,Nicholson Gateway Garage (Level 2),701,146,82% Full,86% Full,62% Full,54% Full
+thursday,Residential,Nicholson Gateway Garage (Level 3),701,170,26% Full,28% Full,25% Full,21% Full
+thursday,Residential,Nicholson Gateway Garage (Level 4),701,171,7% Full,7% Full,5% Full,6% Full
+thursday,Residential,Nicholson Gateway Garage (Level 5),701,178,1% Full,2% Full,2% Full,1% Full
+thursday,Residential,East Campus Apartments (East Lot),504 A,191,97% Full,93% Full,98% Full,97% Full
+thursday,Residential,East Campus Apartments (West Lot),504 B,218,99% Full,93% Full,96% Full,98% Full
+thursday,Residential,Corporate Canal South Lot,518 B,81,81% Full,72% Full,78% Full,85% Full
+thursday,Residential,Campus Lake - South Campus Lot (McVoy Hall),Street,18,89% Full,78% Full,100% Full,100% Full
+thursday,Residential,South Campus Street (Bridge) Lot,Street,105,94% Full,90% Full,92% Full,97% Full
+thursday,Residential,South Stadium / East Parker / Highland Rd. (Street) Lot,Street,172,56% Full,65% Full,61% Full,78% Full
+thursday,Greek,Fraternity Circle Lot,501,94,81% Full,88% Full,91% Full,84% Full
+thursday,Greek,Greek Row Central Lot,521,203,47% Full,61% Full,60% Full,45% Full
+thursday,Greek,Greek Row South Lot,523,84,84% Full,94% Full,80% Full,41% Full
+thursday,Greek,Greek Row North Lot,524,141,0% Full,15% Full,17% Full,0% Full
+thursday,Greek,Fraternity Ln. Lot (Street),500A,25,76% Full,80% Full,84% Full,56% Full
+thursday,Greek,Fraternity Ln. Lot,500B,53,54% Full,75% Full,75% Full,84% Full
+thursday,Greek,Fraternity Ln. East Lot (Gravel),500B,41,53% Full,82% Full,87% Full,68% Full
+thursday,Greek,Fraternity Ln. North Lot,500C,83,90% Full,95% Full,96% Full,89% Full
+thursday,Greek,Greek Row West Lot,520,84,99% Full,98% Full,96% Full,76% Full
+thursday,Greek,West Lakeshore North Lot,513,116,67% Full,99% Full,71% Full,66% Full
+thursday,B Permit,West State St. Lot,218,55,71% Full,80% Full,78% Full,69% Full
+thursday,B Permit,Donahue Street Lot,220,18,39% Full,94% Full,78% Full,56% Full
+thursday,B Permit,Old Band Hall (Gravel) Lot,222,26,23% Full,100% Full,88% Full,50% Full
+thursday,B Permit,312 A (Gravel),312,30,53% Full,73% Full,100% Full,97% Full
+thursday,B Permit,Public Safety Lot,400,42,19% Full,19% Full,21% Full,21% Full
+thursday,B Permit,Hansen's Lot,420,10,30% Full,50% Full,40% Full,20% Full
+thursday,B Permit,Vet Med East Lot,421,170,24% Full,77% Full,75% Full,68% Full
+thursday,B Permit,Vet Med West Lot,422,113,No Data,No Data,No Data,No Data
+thursday,B Permit,Vet Ln. Lot,423,6,No Data,No Data,No Data,No Data
+thursday,B Permit,LADDL Lot,424,57,No Data,No Data,No Data,No Data
+thursday,B Permit,Warehouse Ln. Lot,425,41,13% Full,30% Full,52% Full,20% Full
+thursday,B Permit,University Stores B Lot,430,42,20% Full,30% Full,52% Full,20% Full
+thursday,B Permit,U-High North B Lot,510,88,92% Full,97% Full,97% Full,95% Full
+thursday,B Permit,U-High South B Lot,511,24,20% Full,50% Full,58% Full,79% Full
+thursday,B Permit,Early Learning Center B Lot,On Street,23,54% Full,91% Full,77% Full,86% Full
+thursday,B Permit,Nelson Memorial B Lot,603,29,10% Full,52% Full,45% Full,52% Full
+thursday,B Permit,Tiger Band Hall B Lot,214 B,6,100% Full,20% Full,100% Full,100% Full
+thursday,B Permit,The 5 B Lot,221 A,24,82% Full,92% Full,97% Full,90% Full
+thursday,B Permit,Cogen Lot,301 A,26,46% Full,76% Full,76% Full,61% Full
+thursday,B Permit,Electrical Engineering B Lot,304 A,117,35% Full,88% Full,88% Full,76% Full
+thursday,B Permit,Facility Services Lot (Fieldhouse Dr.),304 C,75,70% Full,76% Full,65% Full,74% Full
+thursday,B Permit,Sturgis Hall B Lot (312A),312 B,70,15% Full,100% Full,25% Full,25% Full
+thursday,B Permit,E.B. Doran Hall Lot,312 D,44,25% Full,100% Full,100% Full,100% Full
+thursday,B Permit,ECE B Lot,402 B,60,1% Full,6% Full,3% Full,1% Full
+thursday,B Permit,E.B Doran Hall (Gravel) Lot,On Street,19,10% Full,25% Full,20% Full,20% Full
+thursday,B Permit,South Quad B (Gravel) Lot,403 A,55,10% Full,25% Full,20% Full,20% Full
+thursday,B Permit,Engineering Ln. Lot,On Street,56,14% Full,28% Full,39% Full,23% Full
+thursday,B Permit,Fieldhouse Dr. (Alaska St.) Lot,On Street,19,84% Full,94% Full,89% Full,89% Full
+thursday,B Permit,Fieldhouse Dr. (S. Campus Dr.) Lot,On Street,45,95% Full,97% Full,93% Full,93% Full
+thursday,B Permit,Forestry Ln. Lot,On Street,15,46% Full,100% Full,100% Full,100% Full
+thursday,B Permit,Hospital Ln. Lot,On Street,16,66% Full,100% Full,50% Full,50% Full
+thursday,B Permit,Infirmary Rd. Lot,On Street,38,47% Full,60% Full,76% Full,68% Full
+thursday,B Permit,Tower Dr. B Lot,On Street,58,70% Full,75% Full,85% Full,85% Full
+thursday,B Permit,Parade Grounds North Lot,On Street,40,57% Full,85% Full,93% Full,93% Full
+thursday,B Permit,Parade Grounds South Lot,On Street,61,53% Full,100% Full,100% Full,100% Full
+thursday,B Permit,North Stadium Dr. Lot,On Street,27,22% Full,85% Full,93% Full,93% Full
+thursday,B Permit,Parker Coliseum B Lot,On Street,37,20% Full,92% Full,100% Full,92% Full
+friday,Commuter,West Stadium Lot,101,221,80% Full,88% Full,89% Full,79% Full
+friday,Commuter,Bernie Moore Lot,104,191,15% Full,8% Full,12% Full,14% Full
+friday,Commuter,Natatorium Lot,105,191,1% Full,48% Full,46% Full,40% Full
+friday,Commuter,Touchdown Village West Lot,314,1364,58% Full,95% Full,99% Full,57% Full
+friday,Commuter,Touchdown Village East Lot,315,1221,99% Full,100% Full,100% Full,98% Full
+friday,Commuter,West Parker Blvd. Lot,316,206,5% Full,15% Full,13% Full,4% Full
+friday,Commuter,South Stadium East Lot,401,328,6% Full,98% Full,98% Full,11% Full
+friday,Commuter,South Stadium West Lot,401,529,3% Full,98% Full,99% Full,7% Full
+friday,Commuter,South Quad Dr. West Lot,403,441,86% Full,90% Full,88% Full,87% Full
+friday,Commuter,Skip Bertman Dr. East Lot,404,641,1% Full,28% Full,22% Full,7% Full
+friday,Commuter,East Parker Blvd. Lot,604,504,9% Full,46% Full,48% Full,16% Full
+friday,Commuter,ECE West Lot,402,285,7% Full,79% Full,83% Full,39% Full
+friday,Commuter,Parker Coliseum Lot,600,494,20% Full,93% Full,73% Full,54% Full
+friday,Residential,Canal Hall North Lot,111,85,95% Full,87% Full,81% Full,73% Full
+friday,Residential,Nicholson Gateway North Lot,112,423,93% Full,91% Full,88% Full,86% Full
+friday,Residential,Beach Volleyball Lot,206,121,93% Full,93% Full,80% Full,79% Full
+friday,Residential,Spruce Hall Lot,210,125,97% Full,95% Full,97% Full,93% Full
+friday,Residential,Alaska street Lot (WCA West),211,427,57% Full,53% Full,43% Full,36% Full
+friday,Residential,Kirby Smith Hall Lot,211,189,97% Full,95% Full,97% Full,93% Full
+friday,Residential,North Kirby Smith Hall Lot,211,219,54% Full,51% Full,51% Full,52% Full
+friday,Residential,Aster Street West Lot,212,176,4% Full,6% Full,6% Full,4% Full
+friday,Residential,Aster Street East Lot,213,200,3% Full,8% Full,9% Full,5% Full
+friday,Residential,Alaska Street East Lot (Cypress Dr. North),219,266,57% Full,48% Full,34% Full,23% Full
+friday,Residential,Broussard Circle Lot,220,19,100% Full,94% Full,89% Full,78% Full
+friday,Residential,Pentagon Lot,220,65,98% Full,92% Full,95% Full,89% Full
+friday,Residential,Acadian Lot,506,141,95% Full,94% Full,89% Full,86% Full
+friday,Residential,Blake Hall Lot,507,93,98% Full,95% Full,82% Full,69% Full
+friday,Residential,Campus Lake Gravel Lot,508,134,91% Full,94% Full,96% Full,89% Full
+friday,Residential,Herget Hall Lot,508,230,96% Full,93% Full,72% Full,58% Full
+friday,Residential,Miller Hall Lot,508,177,96% Full,93% Full,72% Full,58% Full
+friday,Residential,Hill Farm Student Lot,515,298,87% Full,68% Full,63% Full,55% Full
+friday,Residential,Student Rec West Lot,517,100,81% Full,91% Full,89% Full,93% Full
+friday,Residential,Parker Coliseum Lot,600,494,20% Full,93% Full,73% Full,54% Full
+friday,Residential,South Stadium Dr. East Lot,601,125,10% Full,52% Full,10% Full,5% Full
+friday,Residential,Nicholson Gateway Garage (Level 1),701,134,96% Full,85% Full,67% Full,69% Full
+friday,Residential,Nicholson Gateway Garage (Level 2),701,146,69% Full,60% Full,45% Full,26% Full
+friday,Residential,Nicholson Gateway Garage (Level 3),701,170,24% Full,25% Full,22% Full,9% Full
+friday,Residential,Nicholson Gateway Garage (Level 4),701,171,5% Full,2% Full,2% Full,4% Full
+friday,Residential,Nicholson Gateway Garage (Level 5),701,178,0% Full,1% Full,0% Full,0% Full
+friday,Residential,East Campus Apartments (East Lot),504 A,191,96% Full,95% Full,80% Full,54% Full
+friday,Residential,East Campus Apartments (West Lot),504 B,218,96% Full,95% Full,80% Full,54% Full
+friday,Residential,Corporate Canal South Lot,518 B,81,91% Full,74% Full,81% Full,55% Full
+friday,Residential,Campus Lake - South Campus Lot (McVoy Hall),Street,18,39% Full,56% Full,11% Full,0% Full
+friday,Residential,South Campus Street (Bridge) Lot,Street,105,92% Full,87% Full,80% Full,75% Full
+friday,Residential,South Stadium / East Parker / Highland Rd. (Street) Lot,Street,172,47% Full,86% Full,90% Full,75% Full
+friday,Greek,Fraternity Circle Lot,501,94,69% Full,84% Full,78% Full,80% Full
+friday,Greek,Greek Row Central Lot,521,203,22% Full,27% Full,21% Full,12% Full
+friday,Greek,Greek Row South Lot,523,84,86% Full,89% Full,42% Full,2% Full
+friday,Greek,Greek Row North Lot,524,141,0% Full,0% Full,0% Full,0% Full
+friday,Greek,Fraternity Ln. Lot (Street),500A,25,40% Full,68% Full,36% Full,44% Full
+friday,Greek,Fraternity Ln. Lot,500B,53,60% Full,74% Full,64% Full,68% Full
+friday,Greek,Fraternity Ln. East Lot (Gravel),500B,41,66% Full,71% Full,78% Full,90% Full
+friday,Greek,Fraternity Ln. North Lot,500C,83,94% Full,96% Full,90% Full,93% Full
+friday,Greek,Greek Row West Lot,520,84,67% Full,71% Full,52% Full,44% Full
+friday,Greek,West Lakeshore North Lot,513,116,76% Full,75% Full,62% Full,41% Full
+friday,B Permit,West State St. Lot,218,55,75% Full,78% Full,85% Full,71% Full
+friday,B Permit,Donahue Street Lot,220,18,39% Full,94% Full,67% Full,39% Full
+friday,B Permit,Old Band Hall (Gravel) Lot,222,26,35% Full,100% Full,100% Full,73% Full
+friday,B Permit,312 A (Gravel),312,30,90% Full,83% Full,77% Full,70% Full
+friday,B Permit,Public Safety Lot,400,42,19% Full,19% Full,21% Full,21% Full
+friday,B Permit,Hansen's Lot,420,10,20% Full,20% Full,10% Full,10% Full
+friday,B Permit,Vet Med East Lot,421,170,19% Full,70% Full,70% Full,62% Full
+friday,B Permit,Vet Med West Lot,422,113,No Data,No Data,No Data,No Data
+friday,B Permit,Vet Ln. Lot,423,6,No Data,No Data,No Data,No Data
+friday,B Permit,LADDL Lot,424,57,No Data,No Data,No Data,No Data
+friday,B Permit,Warehouse Ln. Lot,425,41,13% Full,30% Full,45% Full,30% Full
+friday,B Permit,University Stores B Lot,430,42,20% Full,30% Full,45% Full,30% Full
+friday,B Permit,U-High North B Lot,510,88,92% Full,94% Full,93% Full,94% Full
+friday,B Permit,U-High South B Lot,511,24,25% Full,46% Full,67% Full,50% Full
+friday,B Permit,Early Learning Center B Lot,On Street,23,54% Full,91% Full,77% Full,86% Full
+friday,B Permit,Nelson Memorial B Lot,603,29,31% Full,52% Full,58% Full,44% Full
+friday,B Permit,Tiger Band Hall B Lot,214 B,6,17% Full,0% Full,100% Full,83% Full
+friday,B Permit,The 5 B Lot,221 A,24,82% Full,92% Full,97% Full,90% Full
+friday,B Permit,Cogen Lot,301 A,26,80% Full,62% Full,69% Full,65% Full
+friday,B Permit,Electrical Engineering B Lot,304 A,117,20% Full,88% Full,84% Full,63% Full
+friday,B Permit,Facility Services Lot (Fieldhouse Dr.),304 C,75,100% Full,91% Full,99% Full,92% Full
+friday,B Permit,Sturgis Hall B Lot (312A),312 B,70,99% Full,97% Full,99% Full,97% Full
+friday,B Permit,E.B. Doran Hall Lot,312 D,44,32% Full,100% Full,100% Full,100% Full
+friday,B Permit,ECE B Lot,402 B,60,3% Full,8% Full,7% Full,5% Full
+friday,B Permit,E.B Doran Hall (Gravel) Lot,On Street,19,20% Full,80% Full,90% Full,75% Full
+friday,B Permit,South Quad B (Gravel) Lot,403 A,55,16% Full,78% Full,95% Full,33% Full
+friday,B Permit,Engineering Ln. Lot,On Street,56,14% Full,28% Full,39% Full,23% Full
+friday,B Permit,Fieldhouse Dr. (Alaska St.) Lot,On Street,19,84% Full,94% Full,89% Full,89% Full
+friday,B Permit,Fieldhouse Dr. (S. Campus Dr.) Lot,On Street,45,95% Full,97% Full,93% Full,93% Full
+friday,B Permit,Forestry Ln. Lot,On Street,15,46% Full,100% Full,100% Full,100% Full
+friday,B Permit,Hospital Ln. Lot,On Street,16,66% Full,100% Full,50% Full,50% Full
+friday,B Permit,Infirmary Rd. Lot,On Street,38,47% Full,60% Full,76% Full,68% Full
+friday,B Permit,Tower Dr. B Lot,On Street,58,70% Full,75% Full,85% Full,85% Full
+friday,B Permit,Parade Grounds North Lot,On street,40,57% Full,80% Full,90% Full,85% Full
+friday,B Permit,Parade Grounds South Lot,On street,61,53% Full,100% Full,100% Full,100% Full
+friday,B Permit,North Stadium Dr. Lot,On street,27,22% Full,85% Full,93% Full,93% Full
+friday,B Permit,Parker Coliseum B Lot,On street,37,20% Full,92% Full,100% Full,92% Full

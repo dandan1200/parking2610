@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Parking Information</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">LSU Parking</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="/">Availability </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/admin">Admin <span class="sr-only">(current)</span></a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<!-- Main content area -->
+<div class="container mt-4">
+    <!-- Search Bar -->
+    <div class="row mb-4">
+        <div class="col-10">
+            <input class="form-control" id="tableSearch" type="text" placeholder="Search parking lots...">
+            
+        </div>
+        <div class="col-2">
+            <button class="btn btn-primary" id="new-entry">+</button>
+        </div>
+
+    </div>
+    <!-- Table -->
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th>Lot Name</th>
+                <th>Lot Number</th>
+                <th>Total Spaces</th>
+                <th>Remove</th>
+            </tr>
+        </thead>
+        <tbody id="parkingTable">
+            <% for (var i = 0; i < lots.length; i++) { %>
+                <tr> 
+                    <td> <%= lots[i]['lot_name'] %> </td>
+                    <td> <%= lots[i]['lot_number'] %> </td>
+                    <td> <%= lots[i]['total_spaces'] %> </td>
+                    <td>
+                        <form action="/admin/remove?lot_number=<%=lots[i]['lot_number']%>" method="POST">
+                            <button type="submit">-</button>
+                        </form>
+                    </td>
+                    
+                </tr>
+            <% } %>
+        </tbody>
+    </table>
+    
+</div>
+
+<div id="popupModal" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Add an entry</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form action="/admin/new" method="POST" enctype="application/x-www-form-urlencoded">
+            <label for="lotType">Lot Type:</label>
+            <select id="lotType" name="lot_type" required>
+                <option value="Commuter">Commuter</option>
+                <option value="Residential">Residential</option>
+                <option value="Greek">Greek</option>
+                <option value="B Permit">B Permit</option>
+            </select><br><br>
+
+
+            <label for="lotName">Lot Name:</label>
+            <input type="text" id="lotName" name="lot_name" required><br><br>
+    
+            <label for="lotNumber">Lot Number:</label>
+            <input type="number" id="lotNumber" name="lot_number" required><br><br>
+    
+            <label for="totalSpaces">Total Spaces:</label>
+            <input type="number" id="totalSpaces" name="total_spaces" required><br><br>
+    
+            <fieldset>
+                <legend>Availability</legend>
+    
+                <label for="monday">Monday:</label>
+                <input style="width:70%" type="text" id="monday" name="availability_monday" placeholder="7:00am,11:00am,2:00pm,4:00pm"><br><br>
+    
+                <label for="tuesday">Tuesday:</label>
+                <input style="width:70%" type="text" id="tuesday" name="availability_tuesday" placeholder="7:00am,11:00am,2:00pm,4:00pm"><br><br>
+    
+                <label for="wednesday">Wednesday:</label>
+                <input style="width:70%" type="text" id="wednesday" name="availability_wednesday" placeholder="7:00am,11:00am,2:00pm,4:00pm"><br><br>
+    
+                <label for="thursday">Thursday:</label>
+                <input style="width:70%" type="text" id="thursday" name="availability_thursday" placeholder="7:00am,11:00am,2:00pm,4:00pm"><br><br>
+    
+                <label for="friday">Friday:</label>
+                <input style="width:70%" type="text" id="friday" name="availability_friday" placeholder="7:00am,11:00am,2:00pm,4:00pm"><br><br>
+            </fieldset>
+            
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-primary">Save changes</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- Include Bootstrap JS and its dependencies -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const searchParam = urlParams.get('search'); 
+        if (searchParam) {
+            const searchBar = document.getElementById('tableSearch');
+            searchBar.value = searchParam;
+        }
+    });
+    document.getElementById('tableSearch').addEventListener('keypress', function(e) {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        updateSearch();
+        }
+    });
+    document.getElementById('new-entry').onclick = function() {
+        console.log('New entry clicked');
+        document.getElementById('popupModal').style.display = 'block';
+    };
+    
+    document.getElementsByClassName('close')[0].onclick = function() {
+        document.getElementById('popupModal').style.display = 'none';
+    };
+
+
+    function updateSearch() {
+      var searchQuery = document.getElementById('tableSearch').value;
+      
+      // Construct the search URL
+      var searchURL = `/admin?search=${encodeURIComponent(searchQuery)}`;
+      
+      console.log(searchURL);
+      window.location.href = searchURL; 
+    }
+    </script>
+</body>
+</html>

@@ -1,0 +1,2369 @@
+[
+    {
+        "lot_type": "Commuter",
+        "lot_name": "West Stadium Lot",
+        "lot_number": "101",
+        "total_spaces": "221",
+        "availability_monday": {
+            "0700": "80% Full",
+            "1100": "88% Full",
+            "1400": "89% Full",
+            "1600": "79% Full"
+        },
+        "availability_tuesday": {
+            "0700": "27% Full",
+            "1100": "16% Full",
+            "1400": "17% Full",
+            "1600": "30% Full"
+        },
+        "availability_wednesday": {
+            "0700": "19% Full",
+            "1100": "82% Full",
+            "1400": "79% Full",
+            "1600": "74% Full"
+        },
+        "availability_thursday": {
+            "0700": "19% Full",
+            "1100": "82% Full",
+            "1400": "79% Full",
+            "1600": "74% Full"
+        },
+        "availability_friday": {
+            "0700": "80% Full",
+            "1100": "88% Full",
+            "1400": "89% Full",
+            "1600": "79% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "Bernie Moore Lot",
+        "lot_number": "104",
+        "total_spaces": "191",
+        "availability_monday": {
+            "0700": "25% Full",
+            "1100": "28% Full",
+            "1400": "22% Full",
+            "1600": "25% Full"
+        },
+        "availability_tuesday": {
+            "0700": "6% Full",
+            "1100": "14% Full",
+            "1400": "15% Full",
+            "1600": "3% Full"
+        },
+        "availability_wednesday": {
+            "0700": "4% Full",
+            "1100": "89% Full",
+            "1400": "67% Full",
+            "1600": "21% Full"
+        },
+        "availability_thursday": {
+            "0700": "4% Full",
+            "1100": "89% Full",
+            "1400": "67% Full",
+            "1600": "21% Full"
+        },
+        "availability_friday": {
+            "0700": "15% Full",
+            "1100": "8% Full",
+            "1400": "12% Full",
+            "1600": "14% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "Natatorium Lot",
+        "lot_number": "105",
+        "total_spaces": "315",
+        "availability_monday": {
+            "0700": "1% Full",
+            "1100": "48% Full",
+            "1400": "46% Full",
+            "1600": "40% Full"
+        },
+        "availability_tuesday": {
+            "0700": "1% full",
+            "1100": "40% Full",
+            "1400": "40% Full",
+            "1600": "2% Full"
+        },
+        "availability_wednesday": {
+            "0700": "27% Full",
+            "1100": "32% Full",
+            "1400": "35% Full",
+            "1600": "42% Full"
+        },
+        "availability_thursday": {
+            "0700": "27% Full",
+            "1100": "32% Full",
+            "1400": "35% Full",
+            "1600": "42% Full"
+        },
+        "availability_friday": {
+            "0700": "1% Full",
+            "1100": "48% Full",
+            "1400": "46% Full",
+            "1600": "40% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "Touchdown Village West Lot",
+        "lot_number": "314",
+        "total_spaces": "1364",
+        "availability_monday": {
+            "0700": "58% Full",
+            "1100": "95% Full",
+            "1400": "99% Full",
+            "1600": "77% Full"
+        },
+        "availability_tuesday": {
+            "0700": "16% Full",
+            "1100": "93% Full",
+            "1400": "93% Full",
+            "1600": "71% Full"
+        },
+        "availability_wednesday": {
+            "0700": "2% Full",
+            "1100": "96% Full",
+            "1400": "92% Full",
+            "1600": "65% Full"
+        },
+        "availability_thursday": {
+            "0700": "2% Full",
+            "1100": "96% Full",
+            "1400": "92% Full",
+            "1600": "65% Full"
+        },
+        "availability_friday": {
+            "0700": "58% Full",
+            "1100": "95% Full",
+            "1400": "99% Full",
+            "1600": "57% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "Touchdown Village East Lot",
+        "lot_number": "315",
+        "total_spaces": "1221",
+        "availability_monday": {
+            "0700": "99% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "98% Full"
+        },
+        "availability_tuesday": {
+            "0700": "12% Full",
+            "1100": "92% Full",
+            "1400": "92% Full",
+            "1600": "30% Full"
+        },
+        "availability_wednesday": {
+            "0700": "1% Full",
+            "1100": "47% Full",
+            "1400": "41% Full",
+            "1600": "21% Full"
+        },
+        "availability_thursday": {
+            "0700": "1% Full",
+            "1100": "47% Full",
+            "1400": "41% Full",
+            "1600": "21% Full"
+        },
+        "availability_friday": {
+            "0700": "99% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "98% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "West Parker Blvd. Lot",
+        "lot_number": "316",
+        "total_spaces": "206",
+        "availability_monday": {
+            "0700": "5% Full",
+            "1100": "15% Full",
+            "1400": "13% Full",
+            "1600": "4% Full"
+        },
+        "availability_tuesday": {
+            "0700": "12% Full",
+            "1100": "16% Full",
+            "1400": "10% Full",
+            "1600": "4% Full"
+        },
+        "availability_wednesday": {
+            "0700": "6% Full",
+            "1100": "16% Full",
+            "1400": "10% Full",
+            "1600": "3% Full"
+        },
+        "availability_thursday": {
+            "0700": "6% Full",
+            "1100": "16% Full",
+            "1400": "10% Full",
+            "1600": "3% Full"
+        },
+        "availability_friday": {
+            "0700": "5% Full",
+            "1100": "15% Full",
+            "1400": "13% Full",
+            "1600": "4% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "South Stadium East Lot",
+        "lot_number": "401",
+        "total_spaces": "328",
+        "availability_monday": {
+            "0700": "3% Full",
+            "1100": "98% Full",
+            "1400": "99% Full",
+            "1600": "7% Full"
+        },
+        "availability_tuesday": {
+            "0700": "4% Full",
+            "1100": "98% Full",
+            "1400": "98% Full",
+            "1600": "6% Full"
+        },
+        "availability_wednesday": {
+            "0700": "3% Full",
+            "1100": "99% Full",
+            "1400": "99% Full",
+            "1600": "4% Full"
+        },
+        "availability_thursday": {
+            "0700": "3% Full",
+            "1100": "99% Full",
+            "1400": "99% Full",
+            "1600": "4% Full"
+        },
+        "availability_friday": {
+            "0700": "3% Full",
+            "1100": "98% Full",
+            "1400": "99% Full",
+            "1600": "7% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "South Quad Dr. West Lot",
+        "lot_number": "403",
+        "total_spaces": "441",
+        "availability_monday": {
+            "0700": "1% Full",
+            "1100": "28% Full",
+            "1400": "22% Full",
+            "1600": "7% Full"
+        },
+        "availability_tuesday": {
+            "0700": "5% Full",
+            "1100": "96% Full",
+            "1400": "97% Full",
+            "1600": "6% Full"
+        },
+        "availability_wednesday": {
+            "0700": "3% Full",
+            "1100": "97% Full",
+            "1400": "98% Full",
+            "1600": "96% Full"
+        },
+        "availability_thursday": {
+            "0700": "3% Full",
+            "1100": "97% Full",
+            "1400": "98% Full",
+            "1600": "96% Full"
+        },
+        "availability_friday": {
+            "0700": "86% Full",
+            "1100": "90% Full",
+            "1400": "88% Full",
+            "1600": "87% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "Skip Bertman Dr. East Lot",
+        "lot_number": "404",
+        "total_spaces": "641",
+        "availability_monday": {
+            "0700": "1% Full",
+            "1100": "28% Full",
+            "1400": "22% Full",
+            "1600": "7% Full"
+        },
+        "availability_tuesday": {
+            "0700": "2% Full",
+            "1100": "28% Full",
+            "1400": "25% Full",
+            "1600": "20% Full"
+        },
+        "availability_wednesday": {
+            "0700": "3% Full",
+            "1100": "26% Full",
+            "1400": "24% Full",
+            "1600": "18% Full"
+        },
+        "availability_thursday": {
+            "0700": "3% Full",
+            "1100": "26% Full",
+            "1400": "24% Full",
+            "1600": "18% Full"
+        },
+        "availability_friday": {
+            "0700": "1% Full",
+            "1100": "28% Full",
+            "1400": "22% Full",
+            "1600": "7% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "East Parker Blvd. Lot",
+        "lot_number": "604",
+        "total_spaces": "504",
+        "availability_monday": {
+            "0700": "100% Full",
+            "1100": "100% Full",
+            "1400": "99% Full",
+            "1600": "99% Full"
+        },
+        "availability_tuesday": {
+            "0700": "13% Full",
+            "1100": "47% Full",
+            "1400": "42% Full",
+            "1600": "16% Full"
+        },
+        "availability_wednesday": {
+            "0700": "16% Full",
+            "1100": "48% Full",
+            "1400": "42% Full",
+            "1600": "85% Full"
+        },
+        "availability_thursday": {
+            "0700": "10% Full",
+            "1100": "41% Full",
+            "1400": "43% Full",
+            "1600": "1% Full"
+        },
+        "availability_friday": {
+            "0700": "9% Full",
+            "1100": "46% Full",
+            "1400": "48% Full",
+            "1600": "16% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "ECE West Lot",
+        "lot_number": "402",
+        "total_spaces": "285",
+        "availability_monday": {
+            "0700": "15% Full",
+            "1100": "87% Full",
+            "1400": "86% Full",
+            "1600": "36% Full"
+        },
+        "availability_tuesday": {
+            "0700": "15% Full",
+            "1100": "87% Full",
+            "1400": "86% Full",
+            "1600": "36% Full"
+        },
+        "availability_wednesday": {
+            "0700": "20% Full",
+            "1100": "17% Full",
+            "1400": "86% Full",
+            "1600": "41% Full"
+        },
+        "availability_thursday": {
+            "0700": "20% Full",
+            "1100": "17% Full",
+            "1400": "86% Full",
+            "1600": "41% Full"
+        },
+        "availability_friday": {
+            "0700": "7% Full",
+            "1100": "79% Full",
+            "1400": "83% Full",
+            "1600": "39% Full"
+        }
+    },
+    {
+        "lot_type": "Commuter",
+        "lot_name": "Parker Coliseum Lot",
+        "lot_number": "600",
+        "total_spaces": "494",
+        "availability_monday": {
+            "0700": "32% Full",
+            "1100": "38% Full",
+            "1400": "95% Full",
+            "1600": "96% Full"
+        },
+        "availability_tuesday": {
+            "0700": "28% Full",
+            "1100": "100% Full",
+            "1400": "97% Full",
+            "1600": "72% Full"
+        },
+        "availability_wednesday": {
+            "0700": "36% Full",
+            "1100": "99% Full",
+            "1400": "91% Full",
+            "1600": "73% Full"
+        },
+        "availability_thursday": {
+            "0700": "33% Full",
+            "1100": "90% Full",
+            "1400": "89% Full",
+            "1600": "65% Full"
+        },
+        "availability_friday": {
+            "0700": "20% Full",
+            "1100": "93% Full",
+            "1400": "73% Full",
+            "1600": "54% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Canal Hall North Lot",
+        "lot_number": "111",
+        "total_spaces": "85",
+        "availability_monday": {
+            "0700": "96% Full",
+            "1100": "99% Full",
+            "1400": "76% Full",
+            "1600": "69% Full"
+        },
+        "availability_tuesday": {
+            "0700": "98% Full",
+            "1100": "93% Full",
+            "1400": "89% Full",
+            "1600": "87% Full"
+        },
+        "availability_wednesday": {
+            "0700": "100% Full",
+            "1100": "88% Full",
+            "1400": "85% Full",
+            "1600": "75% Full"
+        },
+        "availability_thursday": {
+            "0700": "100% Full",
+            "1100": "96% Full",
+            "1400": "88% Full",
+            "1600": "82% Full"
+        },
+        "availability_friday": {
+            "0700": "95% Full",
+            "1100": "87% Full",
+            "1400": "81% Full",
+            "1600": "73% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Nicholson Gateway North Lot",
+        "lot_number": "112",
+        "total_spaces": "423",
+        "availability_monday": {
+            "0700": "98% Full",
+            "1100": "93% Full",
+            "1400": "90% Full",
+            "1600": "88% Full"
+        },
+        "availability_tuesday": {
+            "0700": "99% Full",
+            "1100": "97% Full",
+            "1400": "93% Full",
+            "1600": "94% Full"
+        },
+        "availability_wednesday": {
+            "0700": "98% Full",
+            "1100": "93% Full",
+            "1400": "88% Full",
+            "1600": "86% Full"
+        },
+        "availability_thursday": {
+            "0700": "97% Full",
+            "1100": "95% Full",
+            "1400": "93% Full",
+            "1600": "96% Full"
+        },
+        "availability_friday": {
+            "0700": "93% Full",
+            "1100": "91% Full",
+            "1400": "88% Full",
+            "1600": "86% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Beach Volleyball Lot",
+        "lot_number": "206",
+        "total_spaces": "121",
+        "availability_monday": {
+            "0700": "97% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "96% Full"
+        },
+        "availability_tuesday": {
+            "0700": "98% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "91% Full"
+        },
+        "availability_wednesday": {
+            "0700": "97% Full",
+            "1100": "98% Full",
+            "1400": "97% Full",
+            "1600": "97% Full"
+        },
+        "availability_thursday": {
+            "0700": "100% Full",
+            "1100": "97% Full",
+            "1400": "97% Full",
+            "1600": "98% Full"
+        },
+        "availability_friday": {
+            "0700": "93% Full",
+            "1100": "93% Full",
+            "1400": "80% Full",
+            "1600": "79% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Spruce Hall Lot",
+        "lot_number": "210",
+        "total_spaces": "125",
+        "availability_monday": {
+            "0700": "96% Full",
+            "1100": "96% Full",
+            "1400": "96% Full",
+            "1600": "95% Full"
+        },
+        "availability_tuesday": {
+            "0700": "98% Full",
+            "1100": "98% Full",
+            "1400": "99% Full",
+            "1600": "98% Full"
+        },
+        "availability_wednesday": {
+            "0700": "98% Full",
+            "1100": "95% Full",
+            "1400": "97% Full",
+            "1600": "98% Full"
+        },
+        "availability_thursday": {
+            "0700": "98% Full",
+            "1100": "95% Full",
+            "1400": "93% Full",
+            "1600": "96% Full"
+        },
+        "availability_friday": {
+            "0700": "97% Full",
+            "1100": "95% Full",
+            "1400": "97% Full",
+            "1600": "93% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Alaska Street Lot (WCA West)",
+        "lot_number": "211",
+        "total_spaces": "427",
+        "availability_monday": {
+            "0700": "3% Full",
+            "1100": "17% Full",
+            "1400": "15% Full",
+            "1600": "4% Full"
+        },
+        "availability_tuesday": {
+            "0700": "33% Full",
+            "1100": "42% Full",
+            "1400": "36% Full",
+            "1600": "26% Full"
+        },
+        "availability_wednesday": {
+            "0700": "54% Full",
+            "1100": "65% Full",
+            "1400": "53% Full",
+            "1600": "52% Full"
+        },
+        "availability_thursday": {
+            "0700": "55% Full",
+            "1100": "52% Full",
+            "1400": "52% Full",
+            "1600": "53% Full"
+        },
+        "availability_friday": {
+            "0700": "54% Full",
+            "1100": "51% Full",
+            "1400": "51% Full",
+            "1600": "52% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Aster Street West Lot",
+        "lot_number": "212",
+        "total_spaces": "176",
+        "availability_monday": {
+            "0700": "14% Full",
+            "1100": "15% Full",
+            "1400": "13% Full",
+            "1600": "11% Full"
+        },
+        "availability_tuesday": {
+            "0700": "2% Full",
+            "1100": "19% Full",
+            "1400": "23% Full",
+            "1600": "5% Full"
+        },
+        "availability_wednesday": {
+            "0700": "5% Full",
+            "1100": "16% Full",
+            "1400": "20% Full",
+            "1600": "3% Full"
+        },
+        "availability_thursday": {
+            "0700": "2% Full",
+            "1100": "7% Full",
+            "1400": "8% Full",
+            "1600": "5% Full"
+        },
+        "availability_friday": {
+            "0700": "4% Full",
+            "1100": "6% Full",
+            "1400": "6% Full",
+            "1600": "4% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Aster Street East Lot",
+        "lot_number": "213",
+        "total_spaces": "200",
+        "availability_monday": {
+            "0700": "63% Full",
+            "1100": "66% Full",
+            "1400": "68% Full",
+            "1600": "62% Full"
+        },
+        "availability_tuesday": {
+            "0700": "11% Full",
+            "1100": "10% Full",
+            "1400": "9% Full",
+            "1600": "5% Full"
+        },
+        "availability_wednesday": {
+            "0700": "10% Full",
+            "1100": "10% Full",
+            "1400": "11% Full",
+            "1600": "8% Full"
+        },
+        "availability_thursday": {
+            "0700": "10% Full",
+            "1100": "13% Full",
+            "1400": "14% Full",
+            "1600": "7% Full"
+        },
+        "availability_friday": {
+            "0700": "3% Full",
+            "1100": "8% Full",
+            "1400": "9% Full",
+            "1600": "5% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Alaska Street East Lot (Cypress Dr. North)",
+        "lot_number": "219",
+        "total_spaces": "266",
+        "availability_monday": {
+            "0700": "92% Full",
+            "1100": "92% Full",
+            "1400": "100% Full",
+            "1600": "92% Full"
+        },
+        "availability_tuesday": {
+            "0700": "65% Full",
+            "1100": "67% Full",
+            "1400": "69% Full",
+            "1600": "63% Full"
+        },
+        "availability_wednesday": {
+            "0700": "65% Full",
+            "1100": "68% Full",
+            "1400": "68% Full",
+            "1600": "48% Full"
+        },
+        "availability_thursday": {
+            "0700": "67% Full",
+            "1100": "65% Full",
+            "1400": "76% Full",
+            "1600": "69% Full"
+        },
+        "availability_friday": {
+            "0700": "57% Full",
+            "1100": "48% Full",
+            "1400": "34% Full",
+            "1600": "23% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Broussard Circle Lot",
+        "lot_number": "220",
+        "total_spaces": "19",
+        "availability_monday": {
+            "0700": "43% Full",
+            "1100": "79% Full",
+            "1400": "86% Full",
+            "1600": "79% Full"
+        },
+        "availability_tuesday": {
+            "0700": "16% Full",
+            "1100": "94% Full",
+            "1400": "94% Full",
+            "1600": "77% Full"
+        },
+        "availability_wednesday": {
+            "0700": "11% Full",
+            "1100": "100% Full",
+            "1400": "33% Full",
+            "1600": "78% Full"
+        },
+        "availability_thursday": {
+            "0700": "39% Full",
+            "1100": "94% Full",
+            "1400": "78% Full",
+            "1600": "56% Full"
+        },
+        "availability_friday": {
+            "0700": "39% Full",
+            "1100": "94% Full",
+            "1400": "67% Full",
+            "1600": "39% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Broussard Lot",
+        "lot_number": "221",
+        "total_spaces": "73",
+        "availability_monday": {
+            "0700": "97% Full",
+            "1100": "99% Full",
+            "1400": "97% Full",
+            "1600": "90% Full"
+        },
+        "availability_tuesday": {},
+        "availability_wednesday": {},
+        "availability_thursday": {},
+        "availability_friday": {}
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Acadian Lot",
+        "lot_number": "506",
+        "total_spaces": "141",
+        "availability_monday": {
+            "0700": "92% Full",
+            "1100": "92% Full",
+            "1400": "95% Full",
+            "1600": "96% Full"
+        },
+        "availability_tuesday": {
+            "0700": "96% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "99% Full"
+        },
+        "availability_wednesday": {
+            "0700": "96% Full",
+            "1100": "100% Full",
+            "1400": "98% Full",
+            "1600": "99% Full"
+        },
+        "availability_thursday": {
+            "0700": "99% Full",
+            "1100": "96% Full",
+            "1400": "99% Full",
+            "1600": "87% Full"
+        },
+        "availability_friday": {
+            "0700": "95% Full",
+            "1100": "94% Full",
+            "1400": "89% Full",
+            "1600": "86% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Blake Hall Lot",
+        "lot_number": "507",
+        "total_spaces": "93",
+        "availability_monday": {
+            "0700": "98% Full",
+            "1100": "98% Full",
+            "1400": "98% Full",
+            "1600": "97% Full"
+        },
+        "availability_tuesday": {
+            "0700": "99% Full",
+            "1100": "98% Full",
+            "1400": "98% Full",
+            "1600": "98% Full"
+        },
+        "availability_wednesday": {
+            "0700": "99% Full",
+            "1100": "98% Full",
+            "1400": "98% Full",
+            "1600": "98% Full"
+        },
+        "availability_thursday": {
+            "0700": "99% Full",
+            "1100": "98% Full",
+            "1400": "97% Full",
+            "1600": "91% Full"
+        },
+        "availability_friday": {
+            "0700": "98% Full",
+            "1100": "95% Full",
+            "1400": "82% Full",
+            "1600": "69% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Campus Lake Gravel Lot",
+        "lot_number": "508",
+        "total_spaces": "134",
+        "availability_monday": {
+            "0700": "99% Full",
+            "1100": "99% Full",
+            "1400": "100% Full",
+            "1600": "100% Full"
+        },
+        "availability_tuesday": {
+            "0700": "99% Full",
+            "1100": "99% Full",
+            "1400": "100% Full",
+            "1600": "100% Full"
+        },
+        "availability_wednesday": {
+            "0700": "99% Full",
+            "1100": "98% Full",
+            "1400": "98% Full",
+            "1600": "99% Full"
+        },
+        "availability_thursday": {
+            "0700": "99% Full",
+            "1100": "98% Full",
+            "1400": "95% Full",
+            "1600": "89% Full"
+        },
+        "availability_friday": {
+            "0700": "96% Full",
+            "1100": "93% Full",
+            "1400": "72% Full",
+            "1600": "58% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Hill Farm Student Lot",
+        "lot_number": "515",
+        "total_spaces": "298",
+        "availability_monday": {
+            "0700": "91% Full",
+            "1100": "94% Full",
+            "1400": "96% Full",
+            "1600": "87% Full"
+        },
+        "availability_tuesday": {
+            "0700": "0% Full",
+            "1100": "0% Full",
+            "1400": "2% Full",
+            "1600": "5% Full"
+        },
+        "availability_wednesday": {
+            "0700": "0% Full",
+            "1100": "0% Full",
+            "1400": "98% Full",
+            "1600": "90% Full"
+        },
+        "availability_thursday": {
+            "0700": "1% Full",
+            "1100": "2% Full",
+            "1400": "2% Full",
+            "1600": "3% Full"
+        },
+        "availability_friday": {
+            "0700": "87% Full",
+            "1100": "68% Full",
+            "1400": "63% Full",
+            "1600": "55% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Student Rec West Lot",
+        "lot_number": "517",
+        "total_spaces": "100",
+        "availability_monday": {
+            "0700": "84% Full",
+            "1100": "80% Full",
+            "1400": "91% Full",
+            "1600": "91% Full"
+        },
+        "availability_tuesday": {
+            "0700": "96% Full",
+            "1100": "94% Full",
+            "1400": "98% Full",
+            "1600": "96% Full"
+        },
+        "availability_wednesday": {
+            "0700": "88% Full",
+            "1100": "92% Full",
+            "1400": "90% Full",
+            "1600": "94% Full"
+        },
+        "availability_thursday": {
+            "0700": "86% Full",
+            "1100": "96% Full",
+            "1400": "88% Full",
+            "1600": "94% Full"
+        },
+        "availability_friday": {
+            "0700": "81% Full",
+            "1100": "91% Full",
+            "1400": "89% Full",
+            "1600": "93% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "South Stadium Dr. East Lot",
+        "lot_number": "601",
+        "total_spaces": "125",
+        "availability_monday": {
+            "0700": "0% Full",
+            "1100": "97% Full",
+            "1400": "70% Full",
+            "1600": "85% Full"
+        },
+        "availability_tuesday": {
+            "0700": "0% Full",
+            "1100": "94% Full",
+            "1400": "98% Full",
+            "1600": "0% Full"
+        },
+        "availability_wednesday": {
+            "0700": "0% Full",
+            "1100": "78% Full",
+            "1400": "90% Full",
+            "1600": "0% Full"
+        },
+        "availability_thursday": {
+            "0700": "0% Full",
+            "1100": "68% Full",
+            "1400": "74% Full",
+            "1600": "0% Full"
+        },
+        "availability_friday": {
+            "0700": "10% Full",
+            "1100": "52% Full",
+            "1400": "10% Full",
+            "1600": "5% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Nicholson Gateway Garage (Level 1)",
+        "lot_number": "701",
+        "total_spaces": "134",
+        "availability_monday": {
+            "0700": "6% Full",
+            "1100": "9% Full",
+            "1400": "5% Full",
+            "1600": "5% Full"
+        },
+        "availability_tuesday": {
+            "0700": "1% Full",
+            "1100": "4% Full",
+            "1400": "4% Full",
+            "1600": "2% Full"
+        },
+        "availability_wednesday": {
+            "0700": "0% Full",
+            "1100": "2% Full",
+            "1400": "1% Full",
+            "1600": "0% Full"
+        },
+        "availability_thursday": {
+            "0700": "1% Full",
+            "1100": "2% Full",
+            "1400": "2% Full",
+            "1600": "1% Full"
+        },
+        "availability_friday": {
+            "0700": "0% Full",
+            "1100": "1% Full",
+            "1400": "0% Full",
+            "1600": "0% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "East Campus Apartments (East Lot)",
+        "lot_number": "504 A",
+        "total_spaces": "191",
+        "availability_monday": {
+            "0700": "95% Full",
+            "1100": "97% Full",
+            "1400": "96% Full",
+            "1600": "97% Full"
+        },
+        "availability_tuesday": {
+            "0700": "100% Full",
+            "1100": "99% Full",
+            "1400": "98% Full",
+            "1600": "100% Full"
+        },
+        "availability_wednesday": {
+            "0700": "100% Full",
+            "1100": "99% Full",
+            "1400": "100% Full",
+            "1600": "100% Full"
+        },
+        "availability_thursday": {
+            "0700": "97% Full",
+            "1100": "93% Full",
+            "1400": "98% Full",
+            "1600": "97% Full"
+        },
+        "availability_friday": {
+            "0700": "96% Full",
+            "1100": "95% Full",
+            "1400": "80% Full",
+            "1600": "54% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "East Campus Apartments (West Lot)",
+        "lot_number": "504 B",
+        "total_spaces": "218",
+        "availability_monday": {
+            "0700": "100% Full",
+            "1100": "100% Full",
+            "1400": "99% Full",
+            "1600": "100% Full"
+        },
+        "availability_tuesday": {
+            "0700": "100% Full",
+            "1100": "99% Full",
+            "1400": "96% Full",
+            "1600": "100% Full"
+        },
+        "availability_wednesday": {
+            "0700": "100% Full",
+            "1100": "99% Full",
+            "1400": "100% Full",
+            "1600": "100% Full"
+        },
+        "availability_thursday": {
+            "0700": "99% Full",
+            "1100": "93% Full",
+            "1400": "96% Full",
+            "1600": "98% Full"
+        },
+        "availability_friday": {
+            "0700": "96% Full",
+            "1100": "95% Full",
+            "1400": "80% Full",
+            "1600": "54% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Corporate Canal South Lot",
+        "lot_number": "518 B",
+        "total_spaces": "81",
+        "availability_monday": {
+            "0700": "85% Full",
+            "1100": "74% Full",
+            "1400": "89% Full",
+            "1600": "91% Full"
+        },
+        "availability_tuesday": {
+            "0700": "85% Full",
+            "1100": "74% Full",
+            "1400": "89% Full",
+            "1600": "91% Full"
+        },
+        "availability_wednesday": {
+            "0700": "86% Full",
+            "1100": "70% Full",
+            "1400": "84% Full",
+            "1600": "78% Full"
+        },
+        "availability_thursday": {
+            "0700": "81% Full",
+            "1100": "72% Full",
+            "1400": "78% Full",
+            "1600": "85% Full"
+        },
+        "availability_friday": {
+            "0700": "91% Full",
+            "1100": "74% Full",
+            "1400": "81% Full",
+            "1600": "55% Full"
+        }
+    },
+    {
+        "lot_type": "Residential",
+        "lot_name": "Campus Lake - South Campus Lot (McVoy Hall)",
+        "lot_number": "Street",
+        "total_spaces": "18",
+        "availability_monday": {
+            "0700": "23% Full",
+            "1100": "61% Full",
+            "1400": "56% Full",
+            "1600": "54% Full"
+        },
+        "availability_tuesday": {
+            "0700": "63% Full",
+            "1100": "67% Full",
+            "1400": "66% Full",
+            "1600": "62% Full"
+        },
+        "availability_wednesday": {
+            "0700": "61% Full",
+            "1100": "73% Full",
+            "1400": "62% Full",
+            "1600": "60% Full"
+        },
+        "availability_thursday": {
+            "0700": "56% Full",
+            "1100": "65% Full",
+            "1400": "61% Full",
+            "1600": "78% Full"
+        },
+        "availability_friday": {
+            "0700": "47% Full",
+            "1100": "86% Full",
+            "1400": "90% Full",
+            "1600": "75% Full"
+        }
+    },
+    {
+        "lot_type": "Greek",
+        "lot_name": "Fraternity Circle Lot",
+        "lot_number": "501",
+        "total_spaces": "94",
+        "availability_monday": {
+            "0700": "79% Full",
+            "1100": "90% Full",
+            "1400": "97% Full",
+            "1600": "92% Full"
+        },
+        "availability_tuesday": {
+            "0700": "77% Full",
+            "1100": "87% Full",
+            "1400": "93% Full",
+            "1600": "83% Full"
+        },
+        "availability_wednesday": {
+            "0700": "77% Full",
+            "1100": "87% Full",
+            "1400": "93% Full",
+            "1600": "83% Full"
+        },
+        "availability_thursday": {
+            "0700": "81% Full",
+            "1100": "88% Full",
+            "1400": "91% Full",
+            "1600": "84% Full"
+        },
+        "availability_friday": {
+            "0700": "69% Full",
+            "1100": "84% Full",
+            "1400": "78% Full",
+            "1600": "80% Full"
+        }
+    },
+    {
+        "lot_type": "Greek",
+        "lot_name": "Greek Row Central Lot",
+        "lot_number": "521",
+        "total_spaces": "203",
+        "availability_monday": {
+            "0700": "48% Full",
+            "1100": "38% Full",
+            "1400": "44% Full",
+            "1600": "36% Full"
+        },
+        "availability_tuesday": {
+            "0700": "50% Full",
+            "1100": "63% Full",
+            "1400": "67% Full",
+            "1600": "43% Full"
+        },
+        "availability_wednesday": {
+            "0700": "44% Full",
+            "1100": "62% Full",
+            "1400": "69% Full",
+            "1600": "48% Full"
+        },
+        "availability_thursday": {
+            "0700": "47% Full",
+            "1100": "61% Full",
+            "1400": "60% Full",
+            "1600": "45% Full"
+        },
+        "availability_friday": {
+            "0700": "22% Full",
+            "1100": "27% Full",
+            "1400": "21% Full",
+            "1600": "12% Full"
+        }
+    },
+    {
+        "lot_type": "Greek",
+        "lot_name": "Greek Row South Lot",
+        "lot_number": "523",
+        "total_spaces": "84",
+        "availability_monday": {
+            "0700": "77% Full",
+            "1100": "81% Full",
+            "1400": "84% Full",
+            "1600": "74% Full"
+        },
+        "availability_tuesday": {
+            "0700": "86% Full",
+            "1100": "87% Full",
+            "1400": "82% Full",
+            "1600": "77% Full"
+        },
+        "availability_wednesday": {
+            "0700": "88% Full",
+            "1100": "95% Full",
+            "1400": "96% Full",
+            "1600": "57% Full"
+        },
+        "availability_thursday": {
+            "0700": "84% Full",
+            "1100": "94% Full",
+            "1400": "80% Full",
+            "1600": "41% Full"
+        },
+        "availability_friday": {
+            "0700": "86% Full",
+            "1100": "89% Full",
+            "1400": "42% Full",
+            "1600": "2% Full"
+        }
+    },
+    {
+        "lot_type": "Greek",
+        "lot_name": "Greek Row North Lot",
+        "lot_number": "524",
+        "total_spaces": "141",
+        "availability_monday": {
+            "0700": "3% Full",
+            "1100": "29% Full",
+            "1400": "42% Full",
+            "1600": "19% Full"
+        },
+        "availability_tuesday": {
+            "0700": "9% Full",
+            "1100": "33% Full",
+            "1400": "42% Full",
+            "1600": "25% Full"
+        },
+        "availability_wednesday": {
+            "0700": "0% Full",
+            "1100": "19% Full",
+            "1400": "36% Full",
+            "1600": "3% Full"
+        },
+        "availability_thursday": {
+            "0700": "0% Full",
+            "1100": "15% Full",
+            "1400": "17% Full",
+            "1600": "0% Full"
+        },
+        "availability_friday": {
+            "0700": "0% Full",
+            "1100": "0% Full",
+            "1400": "0% Full",
+            "1600": "0% Full"
+        }
+    },
+    {
+        "lot_type": "Greek",
+        "lot_name": "Fraternity Ln. Lot (Street)",
+        "lot_number": "500A",
+        "total_spaces": "25",
+        "availability_monday": {
+            "0700": "49% Full",
+            "1100": "72% Full",
+            "1400": "96% Full",
+            "1600": "92% Full"
+        },
+        "availability_tuesday": {
+            "0700": "52% Full",
+            "1100": "68% Full",
+            "1400": "80% Full",
+            "1600": "44% Full"
+        },
+        "availability_wednesday": {
+            "0700": "52% Full",
+            "1100": "68% Full",
+            "1400": "80% Full",
+            "1600": "44% Full"
+        },
+        "availability_thursday": {
+            "0700": "76% Full",
+            "1100": "80% Full",
+            "1400": "84% Full",
+            "1600": "56% Full"
+        },
+        "availability_friday": {
+            "0700": "40% Full",
+            "1100": "68% Full",
+            "1400": "36% Full",
+            "1600": "44% Full"
+        }
+    },
+    {
+        "lot_type": "Greek",
+        "lot_name": "Fraternity Ln. East Lot",
+        "lot_number": "500B",
+        "total_spaces": "41",
+        "availability_monday": {
+            "0700": "71% Full",
+            "1100": "76% Ful",
+            "1400": "88% Full",
+            "1600": "88% Full"
+        },
+        "availability_tuesday": {
+            "0700": "80% Full",
+            "1100": "78% Full",
+            "1400": "71% Full",
+            "1600": "66% Full"
+        },
+        "availability_wednesday": {
+            "0700": "80% Full",
+            "1100": "78% Full",
+            "1400": "71% Full",
+            "1600": "66% Full"
+        },
+        "availability_thursday": {
+            "0700": "53% Full",
+            "1100": "82% Full",
+            "1400": "87% Full",
+            "1600": "68% Full"
+        },
+        "availability_friday": {
+            "0700": "66% Full",
+            "1100": "71% Full",
+            "1400": "78% Full",
+            "1600": "90% Full"
+        }
+    },
+    {
+        "lot_type": "Greek",
+        "lot_name": "Fraternity Ln. North Lot",
+        "lot_number": "500C",
+        "total_spaces": "83",
+        "availability_monday": {
+            "0700": "63% Full",
+            "1100": "96% Full",
+            "1400": "98% Full",
+            "1600": "96% Full"
+        },
+        "availability_tuesday": {
+            "0700": "63% Full",
+            "1100": "96% Full",
+            "1400": "98% Full",
+            "1600": "96% Full"
+        },
+        "availability_wednesday": {
+            "0700": "94% Full",
+            "1100": "96% Full",
+            "1400": "90% Full",
+            "1600": "83% Full"
+        },
+        "availability_thursday": {
+            "0700": "90% Full",
+            "1100": "95% Full",
+            "1400": "96% Full",
+            "1600": "89% Full"
+        },
+        "availability_friday": {
+            "0700": "94% Full",
+            "1100": "96% Full",
+            "1400": "90% Full",
+            "1600": "93% Full"
+        }
+    },
+    {
+        "lot_type": "Greek",
+        "lot_name": "Greek Row West Lot",
+        "lot_number": "520",
+        "total_spaces": "84",
+        "availability_monday": {
+            "0700": "96% Full",
+            "1100": "100% Full",
+            "1400": "99% Full",
+            "1600": "95% Full"
+        },
+        "availability_tuesday": {
+            "0700": "96% Full",
+            "1100": "98% Full",
+            "1400": "99% Full",
+            "1600": "98% Full"
+        },
+        "availability_wednesday": {
+            "0700": "98% Full",
+            "1100": "99% Full",
+            "1400": "94% Full",
+            "1600": "57% Full"
+        },
+        "availability_thursday": {
+            "0700": "99% Full",
+            "1100": "98% Full",
+            "1400": "96% Full",
+            "1600": "76% Full"
+        },
+        "availability_friday": {
+            "0700": "67% Full",
+            "1100": "71% Full",
+            "1400": "52% Full",
+            "1600": "44% Full"
+        }
+    },
+    {
+        "lot_type": "Greek",
+        "lot_name": "West Lakeshore North Lot",
+        "lot_number": "513",
+        "total_spaces": "116",
+        "availability_monday": {
+            "0700": "97% Full",
+            "1100": "99% Full",
+            "1400": "96% Full",
+            "1600": "93% Full"
+        },
+        "availability_tuesday": {
+            "0700": "85% Full",
+            "1100": "77% Full",
+            "1400": "74% Full",
+            "1600": "59% Full"
+        },
+        "availability_wednesday": {
+            "0700": "59% Full",
+            "1100": "81% Full",
+            "1400": "67% Full",
+            "1600": "64% Full"
+        },
+        "availability_thursday": {
+            "0700": "67% Full",
+            "1100": "99% Full",
+            "1400": "71% Full",
+            "1600": "66% Full"
+        },
+        "availability_friday": {
+            "0700": "76% Full",
+            "1100": "75% Full",
+            "1400": "62% Full",
+            "1600": "41% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "West State St. Lot",
+        "lot_number": "218",
+        "total_spaces": "55",
+        "availability_monday": {
+            "0700": "62% Full",
+            "1100": "87% Full",
+            "1400": "67% Full",
+            "1600": "84% Full"
+        },
+        "availability_tuesday": {
+            "0700": "69% Full",
+            "1100": "85% Full",
+            "1400": "80% Full",
+            "1600": "65% Full"
+        },
+        "availability_wednesday": {
+            "0700": "78% Full",
+            "1100": "85% Full",
+            "1400": "76% Full",
+            "1600": "73% Full"
+        },
+        "availability_thursday": {
+            "0700": "71% Full",
+            "1100": "80% Full",
+            "1400": "78% Full",
+            "1600": "69% Full"
+        },
+        "availability_friday": {
+            "0700": "75% Full",
+            "1100": "78% Full",
+            "1400": "85% Full",
+            "1600": "71% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Old Band Hall (Gravel) Lot",
+        "lot_number": "222",
+        "total_spaces": "26",
+        "availability_monday": {
+            "0700": "0% Full",
+            "1100": "4% Full",
+            "1400": "61% Full",
+            "1600": "4% Full"
+        },
+        "availability_tuesday": {
+            "0700": "65% Full",
+            "1100": "11% Full",
+            "1400": "19% Full",
+            "1600": "11% Full"
+        },
+        "availability_wednesday": {
+            "0700": "73% Full",
+            "1100": "15% Full",
+            "1400": "8% Full",
+            "1600": "15% Full"
+        },
+        "availability_thursday": {
+            "0700": "23% Full",
+            "1100": "100% Full",
+            "1400": "88% Full",
+            "1600": "50% Full"
+        },
+        "availability_friday": {
+            "0700": "35% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "73% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "312 A (Gravel)",
+        "lot_number": "312",
+        "total_spaces": "30",
+        "availability_monday": {
+            "0700": "60% Full",
+            "1100": "90% Full",
+            "1400": "100% Full",
+            "1600": "57% Full"
+        },
+        "availability_tuesday": {
+            "0700": "63% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "80% Full"
+        },
+        "availability_wednesday": {
+            "0700": "13% Full",
+            "1100": "27% Full",
+            "1400": "100% Full",
+            "1600": "73% Full"
+        },
+        "availability_thursday": {
+            "0700": "53% Full",
+            "1100": "73% Full",
+            "1400": "100% Full",
+            "1600": "97% Full"
+        },
+        "availability_friday": {
+            "0700": "90% Full",
+            "1100": "83% Full",
+            "1400": "77% Full",
+            "1600": "70% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Public Safety Lot",
+        "lot_number": "400",
+        "total_spaces": "42",
+        "availability_monday": {
+            "0700": "57% Full",
+            "1100": "68% Full",
+            "1400": "75% Full",
+            "1600": "61% Full"
+        },
+        "availability_tuesday": {
+            "0700": "30% Full",
+            "1100": "45% Full",
+            "1400": "57% Full",
+            "1600": "40% Full"
+        },
+        "availability_wednesday": {
+            "0700": "19% Full",
+            "1100": "19% Full",
+            "1400": "21% Full",
+            "1600": "21% Full"
+        },
+        "availability_thursday": {
+            "0700": "19% Full",
+            "1100": "19% Full",
+            "1400": "21% Full",
+            "1600": "21% Full"
+        },
+        "availability_friday": {
+            "0700": "19% Full",
+            "1100": "19% Full",
+            "1400": "21% Full",
+            "1600": "21% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Hansen's Lot",
+        "lot_number": "420",
+        "total_spaces": "10",
+        "availability_monday": {
+            "0700": "10% Full",
+            "1100": "20% Full",
+            "1400": "20% Full",
+            "1600": "10% Full"
+        },
+        "availability_tuesday": {
+            "0700": "40% Full",
+            "1100": "40% Full",
+            "1400": "57% Full",
+            "1600": "40% Full"
+        },
+        "availability_wednesday": {
+            "0700": "20% Full",
+            "1100": "20% Full",
+            "1400": "20% Full",
+            "1600": "10% Full"
+        },
+        "availability_thursday": {
+            "0700": "30% Full",
+            "1100": "50% Full",
+            "1400": "40% Full",
+            "1600": "20% Full"
+        },
+        "availability_friday": {
+            "0700": "20% Full",
+            "1100": "20% Full",
+            "1400": "10% Full",
+            "1600": "10% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Vet Med East Lot",
+        "lot_number": "421",
+        "total_spaces": "170",
+        "availability_monday": {
+            "0700": "44% Full",
+            "1100": "67% Full",
+            "1400": "65% Full",
+            "1600": "83% Full"
+        },
+        "availability_tuesday": {
+            "0700": "21% Full",
+            "1100": "77% Full",
+            "1400": "74% Full",
+            "1600": "67% Full"
+        },
+        "availability_wednesday": {
+            "0700": "21% Full",
+            "1100": "25% Full",
+            "1400": "75% Full",
+            "1600": "61% Full"
+        },
+        "availability_thursday": {
+            "0700": "24% Full",
+            "1100": "77% Full",
+            "1400": "75% Full",
+            "1600": "68% Full"
+        },
+        "availability_friday": {
+            "0700": "19% Full",
+            "1100": "70% Full",
+            "1400": "70% Full",
+            "1600": "62% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Vet Med West Lot",
+        "lot_number": "422",
+        "total_spaces": "113",
+        "availability_monday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_tuesday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_wednesday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_thursday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_friday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Vet Ln. Lot",
+        "lot_number": "423",
+        "total_spaces": "6",
+        "availability_monday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_tuesday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_wednesday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_thursday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_friday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "LADDL Lot",
+        "lot_number": "424",
+        "total_spaces": "57",
+        "availability_monday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_tuesday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_wednesday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_thursday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        },
+        "availability_friday": {
+            "0700": "No Data",
+            "1100": "No Data",
+            "1400": "No Data",
+            "1600": "No Data"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Warehouse Ln. Lot",
+        "lot_number": "425",
+        "total_spaces": "41",
+        "availability_monday": {
+            "0700": "13% Full",
+            "1100": "30% Full",
+            "1400": "20% Full",
+            "1600": "20% Full"
+        },
+        "availability_tuesday": {
+            "0700": "13% Full",
+            "1100": "30% Full",
+            "1400": "40% Full",
+            "1600": "30% Full"
+        },
+        "availability_wednesday": {
+            "0700": "13% Full",
+            "1100": "30% Full",
+            "1400": "50% Full",
+            "1600": "60% Full"
+        },
+        "availability_thursday": {
+            "0700": "13% Full",
+            "1100": "30% Full",
+            "1400": "52% Full",
+            "1600": "20% Full"
+        },
+        "availability_friday": {
+            "0700": "13% Full",
+            "1100": "30% Full",
+            "1400": "45% Full",
+            "1600": "30% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "University Stores B Lot",
+        "lot_number": "430",
+        "total_spaces": "42",
+        "availability_monday": {
+            "0700": "20% Full",
+            "1100": "20% Full",
+            "1400": "20% Full",
+            "1600": "10% Full"
+        },
+        "availability_tuesday": {
+            "0700": "20% Full",
+            "1100": "20% Full",
+            "1400": "30% Full",
+            "1600": "30% Full"
+        },
+        "availability_wednesday": {
+            "0700": "20% Full",
+            "1100": "30% Full",
+            "1400": "30% Full",
+            "1600": "25% Full"
+        },
+        "availability_thursday": {
+            "0700": "20% Full",
+            "1100": "30% Full",
+            "1400": "52% Full",
+            "1600": "20% Full"
+        },
+        "availability_friday": {
+            "0700": "20% Full",
+            "1100": "30% Full",
+            "1400": "45% Full",
+            "1600": "30% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "U-High North B Lot",
+        "lot_number": "510",
+        "total_spaces": "88",
+        "availability_monday": {
+            "0700": "87% Full",
+            "1100": "98% Full",
+            "1400": "99% Full",
+            "1600": "98% Full"
+        },
+        "availability_tuesday": {
+            "0700": "72% Full",
+            "1100": "72% Full",
+            "1400": "72% Full",
+            "1600": "72% Full"
+        },
+        "availability_wednesday": {
+            "0700": "93% Full",
+            "1100": "99% Full",
+            "1400": "99% Full",
+            "1600": "98% Full"
+        },
+        "availability_thursday": {
+            "0700": "92% Full",
+            "1100": "97% Full",
+            "1400": "97% Full",
+            "1600": "95% Full"
+        },
+        "availability_friday": {
+            "0700": "92% Full",
+            "1100": "94% Full",
+            "1400": "93% Full",
+            "1600": "94% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "U-High South B Lot",
+        "lot_number": "511",
+        "total_spaces": "24",
+        "availability_monday": {
+            "0700": "0% Full",
+            "1100": "21% Full",
+            "1400": "54% Full",
+            "1600": "37% Full"
+        },
+        "availability_tuesday": {
+            "0700": "100% Full",
+            "1100": "54% Full",
+            "1400": "50% Full",
+            "1600": "45% Full"
+        },
+        "availability_wednesday": {
+            "0700": "79% Full",
+            "1100": "71% Full",
+            "1400": "75% Full",
+            "1600": "46% Full"
+        },
+        "availability_thursday": {
+            "0700": "20% Full",
+            "1100": "50% Full",
+            "1400": "58% Full",
+            "1600": "79% Full"
+        },
+        "availability_friday": {
+            "0700": "25% Full",
+            "1100": "46% Full",
+            "1400": "67% Full",
+            "1600": "50% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Early Learning Center B Lot",
+        "lot_number": "On Street",
+        "total_spaces": "23",
+        "availability_monday": {
+            "0700": "20% Full",
+            "1100": "92% Full",
+            "1400": "100% Full",
+            "1600": "92% Full"
+        },
+        "availability_tuesday": {
+            "0700": "5% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "97% Full"
+        },
+        "availability_wednesday": {
+            "0700": "76% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "87% Full"
+        },
+        "availability_thursday": {
+            "0700": "20% Full",
+            "1100": "92% Full",
+            "1400": "100% Full",
+            "1600": "92% Full"
+        },
+        "availability_friday": {
+            "0700": "70% Full",
+            "1100": "75% Full",
+            "1400": "85% Full",
+            "1600": "85% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Nelson Memorial B Lot",
+        "lot_number": "603",
+        "total_spaces": "29",
+        "availability_monday": {
+            "0700": "10% Full",
+            "1100": "52% Full",
+            "1400": "45% Full",
+            "1600": "52% Full"
+        },
+        "availability_tuesday": {
+            "0700": "31% Full",
+            "1100": "52% Full",
+            "1400": "58% Full",
+            "1600": "44% Full"
+        },
+        "availability_wednesday": {
+            "0700": "31% Full",
+            "1100": "52% Full",
+            "1400": "58% Full",
+            "1600": "44% Full"
+        },
+        "availability_thursday": {
+            "0700": "10% Full",
+            "1100": "52% Full",
+            "1400": "45% Full",
+            "1600": "52% Full"
+        },
+        "availability_friday": {
+            "0700": "31% Full",
+            "1100": "52% Full",
+            "1400": "58% Full",
+            "1600": "44% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Tiger Band Hall B Lot",
+        "lot_number": "214 B",
+        "total_spaces": "6",
+        "availability_monday": {
+            "0700": "100% Full",
+            "1100": "20% Full",
+            "1400": "100% Full",
+            "1600": "100% Full"
+        },
+        "availability_tuesday": {
+            "0700": "16% Full",
+            "1100": "0% Full",
+            "1400": "16% Full",
+            "1600": "16% Full"
+        },
+        "availability_wednesday": {
+            "0700": "17% Full",
+            "1100": "0% Full",
+            "1400": "100% Full",
+            "1600": "83% Full"
+        },
+        "availability_thursday": {
+            "0700": "100% Full",
+            "1100": "20% Full",
+            "1400": "100% Full",
+            "1600": "100% Full"
+        },
+        "availability_friday": {
+            "0700": "17% Full",
+            "1100": "0% Full",
+            "1400": "100% Full",
+            "1600": "83% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "The 5 B Lot",
+        "lot_number": "221 A",
+        "total_spaces": "24",
+        "availability_monday": {
+            "0700": "95% Full",
+            "1100": "92% Full",
+            "1400": "95% Full",
+            "1600": "85% Full"
+        },
+        "availability_tuesday": {
+            "0700": "95% Full",
+            "1100": "92% Full",
+            "1400": "92% Full",
+            "1600": "65% Full"
+        },
+        "availability_wednesday": {
+            "0700": "95% Full",
+            "1100": "92% Full",
+            "1400": "95% Full",
+            "1600": "82% Full"
+        },
+        "availability_thursday": {
+            "0700": "82% Full",
+            "1100": "92% Full",
+            "1400": "97% Full",
+            "1600": "90% Full"
+        },
+        "availability_friday": {
+            "0700": "82% Full",
+            "1100": "92% Full",
+            "1400": "97% Full",
+            "1600": "90% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Cogen Lot",
+        "lot_number": "301 A",
+        "total_spaces": "26",
+        "availability_monday": {
+            "0700": "54% Full",
+            "1100": "100% Full",
+            "1400": "88% Full",
+            "1600": "73% Full"
+        },
+        "availability_tuesday": {
+            "0700": "30% Full",
+            "1100": "96% Full",
+            "1400": "92% Full",
+            "1600": "65% Full"
+        },
+        "availability_wednesday": {
+            "0700": "65% Full",
+            "1100": "88% Full",
+            "1400": "96% Full",
+            "1600": "62% Full"
+        },
+        "availability_thursday": {
+            "0700": "46% Full",
+            "1100": "76% Full",
+            "1400": "76% Full",
+            "1600": "61% Full"
+        },
+        "availability_friday": {
+            "0700": "80% Full",
+            "1100": "62% Full",
+            "1400": "69% Full",
+            "1600": "65% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Electrical Engineering B Lot",
+        "lot_number": "304 A",
+        "total_spaces": "117",
+        "availability_monday": {
+            "0700": "41% Full",
+            "1100": "95% Full",
+            "1400": "96% Full",
+            "1600": "73% Full"
+        },
+        "availability_tuesday": {},
+        "availability_wednesday": {
+            "0700": "40% Full",
+            "1100": "94% Full",
+            "1400": "97% Full",
+            "1600": "76% Full"
+        },
+        "availability_thursday": {
+            "0700": "35% Full",
+            "1100": "88% Full",
+            "1400": "88% Full",
+            "1600": "76% Full"
+        },
+        "availability_friday": {
+            "0700": "20% Full",
+            "1100": "88% Full",
+            "1400": "84% Full",
+            "1600": "63% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Facility Services Lot (Fieldhouse Dr.)",
+        "lot_number": "304 C",
+        "total_spaces": "75",
+        "availability_monday": {
+            "0700": "80% Full",
+            "1100": "97% Full",
+            "1400": "99% Full",
+            "1600": "93% Full"
+        },
+        "availability_tuesday": {
+            "0700": "35% Full",
+            "1100": "94% Full",
+            "1400": "93% Full",
+            "1600": "70% Full"
+        },
+        "availability_wednesday": {
+            "0700": "67% Full",
+            "1100": "85% Full",
+            "1400": "89% Full",
+            "1600": "84% Full"
+        },
+        "availability_thursday": {
+            "0700": "70% Full",
+            "1100": "76% Full",
+            "1400": "65% Full",
+            "1600": "74% Full"
+        },
+        "availability_friday": {
+            "0700": "100% Full",
+            "1100": "91% Full",
+            "1400": "99% Full",
+            "1600": "92% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Sturgis Hall B Lot (312A)",
+        "lot_number": "312 B",
+        "total_spaces": "70",
+        "availability_monday": {
+            "0700": "5% Full",
+            "1100": "92% Full",
+            "1400": "92% Full",
+            "1600": "77% Full"
+        },
+        "availability_tuesday": {
+            "0700": "84% Full",
+            "1100": "92% Full",
+            "1400": "89% Full",
+            "1600": "95% Full"
+        },
+        "availability_wednesday": {
+            "0700": "14% Full",
+            "1100": "94% Full",
+            "1400": "97% Full",
+            "1600": "87% Full"
+        },
+        "availability_thursday": {
+            "0700": "15% Full",
+            "1100": "100% Full",
+            "1400": "25% Full",
+            "1600": "25% Full"
+        },
+        "availability_friday": {
+            "0700": "99% Full",
+            "1100": "97% Full",
+            "1400": "99% Full",
+            "1600": "97% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "E.B. Doran Hall Lot",
+        "lot_number": "312 D",
+        "total_spaces": "44",
+        "availability_monday": {
+            "0700": "16% Full",
+            "1100": "100% Full",
+            "1400": "95% Full",
+            "1600": "74% Full"
+        },
+        "availability_tuesday": {
+            "0700": "15% Full",
+            "1100": "94% Full",
+            "1400": "98% Full",
+            "1600": "88% Full"
+        },
+        "availability_wednesday": {
+            "0700": "32% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "100% Full"
+        },
+        "availability_thursday": {
+            "0700": "25% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "100% Full"
+        },
+        "availability_friday": {
+            "0700": "32% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "100% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "ECE B Lot",
+        "lot_number": "402 B",
+        "total_spaces": "60",
+        "availability_monday": {
+            "0700": "2% Full",
+            "1100": "6% Full",
+            "1400": "5% Full",
+            "1600": "8% Full"
+        },
+        "availability_tuesday": {
+            "0700": "16% Full",
+            "1100": "100% Full",
+            "1400": "95% Full",
+            "1600": "74% Full"
+        },
+        "availability_wednesday": {
+            "0700": "32% Full",
+            "1100": "100% Full",
+            "1400": "100% Full",
+            "1600": "100% Full"
+        },
+        "availability_thursday": {
+            "0700": "1% Full",
+            "1100": "6% Full",
+            "1400": "3% Full",
+            "1600": "1% Full"
+        },
+        "availability_friday": {
+            "0700": "3% Full",
+            "1100": "8% Full",
+            "1400": "7% Full",
+            "1600": "5% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "South Quad B (Gravel) Lot",
+        "lot_number": "403 A",
+        "total_spaces": "55",
+        "availability_monday": {
+            "0700": "1% Full",
+            "1100": "14% Full",
+            "1400": "7% Full",
+            "1600": "7% Full"
+        },
+        "availability_tuesday": {
+            "0700": "1% Full",
+            "1100": "14% Full",
+            "1400": "7% Full",
+            "1600": "7% Full"
+        },
+        "availability_wednesday": {
+            "0700": "2% Full",
+            "1100": "4% Full",
+            "1400": "5% Full",
+            "1600": "7% Full"
+        },
+        "availability_thursday": {
+            "0700": "10% Full",
+            "1100": "25% Full",
+            "1400": "20% Full",
+            "1600": "20% Full"
+        },
+        "availability_friday": {
+            "0700": "16% Full",
+            "1100": "78% Full",
+            "1400": "95% Full",
+            "1600": "33% Full"
+        }
+    },
+    {
+        "lot_type": "B Permit",
+        "lot_name": "Parade Grounds North Lot",
+        "lot_number": "On street",
+        "total_spaces": "40",
+        "availability_monday": {},
+        "availability_tuesday": {},
+        "availability_wednesday": {},
+        "availability_thursday": {},
+        "availability_friday": {
+            "0700": "20% Full",
+            "1100": "92% Full",
+            "1400": "100% Full",
+            "1600": "92% Full"
+        }
+    }
+]

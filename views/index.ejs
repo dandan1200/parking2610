@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Parking Information</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">LSU Parking</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="/">Availability <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/admin"">Admin</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<!-- Main content area -->
+<div class="container mt-4">
+    <!-- Search Bar -->
+    <div class="row mb-4">
+        <div class="col">
+            <input class="form-control" id="tableSearch" type="text" placeholder="Search parking lots...">
+        </div>
+        <div class="col">
+            <select class="form-control" id="dayDropdown">
+                <option value="Monday">Monday</option>
+                <option value="Tuesday">Tuesday</option>
+                <option value="Wednesday">Wednesday</option>
+                <option value="Thursday">Thursday</option>
+                <option value="Friday">Friday</option>
+            </select>
+        </div>
+    </div>
+    <!-- Table -->
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th>Lot Name</th>
+                <th>Lot Number</th>
+                <th>Total Spaces</th>
+                <th>7:00 am</th>
+                <th>11:00 am</th>
+                <th>2:00 pm</th>
+                <th>4:00 pm</th>
+            </tr>
+        </thead>
+        <tbody id="parkingTable">
+            <% for (var i = 0; i < lots.length; i++) { %>
+                <% console.log(locals.day,lots[i]['lot_name'],lots[i]['lot_number'], lots[i]['total_spaces'],lots[i][locals.day].get('0700') ) %>
+                <tr> 
+                    <td> <%= lots[i]['lot_name'] %> </td>
+                    <td> <%= lots[i]['lot_number'] %> </td>
+                    <td> <%= lots[i]['total_spaces'] %> </td>
+                    <td> <%= lots[i][locals.day].get("0700")%> </td>
+                    <td> <%= lots[i][locals.day].get("1100") %> </td>
+                    <td> <%= lots[i][locals.day].get("1400") %> </td>
+                    <td> <%= lots[i][locals.day].get("1600") %> </td>
+                </tr>
+            <% } %>
+        </tbody>
+    </table>
+    
+</div>
+
+<!-- Include Bootstrap JS and its dependencies -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const dayParam = urlParams.get('day');
+        const searchParam = urlParams.get('search'); 
+        if (dayParam) {
+            const dayDropdown = document.getElementById('dayDropdown');
+            dayDropdown.value = dayParam;
+        }
+        if (searchParam) {
+            const searchBar = document.getElementById('tableSearch');
+            searchBar.value = searchParam;
+        }
+    });
+
+    document.getElementById('tableSearch').addEventListener('keypress', function(e) {
+      if (e.key === 'Enter') {
+      updateSearch();
+        }
+    });
+    
+    document.getElementById('dayDropdown').addEventListener('change', function() {
+      updateSearch();
+    });
+    
+    function updateSearch() {
+      var searchQuery = document.getElementById('tableSearch').value;
+      var selectedDay = document.getElementById('dayDropdown').value;
+      
+      // Construct the search URL
+      var searchURL = `/search?search=${encodeURIComponent(searchQuery)}&day=${encodeURIComponent(selectedDay)}`;
+      
+      console.log(searchURL);
+      window.location.href = searchURL; 
+    }
+    </script>
+</body>
+</html>
